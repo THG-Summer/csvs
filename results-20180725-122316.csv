@@ -1,0 +1,1001 @@
+fullVisitorId,channelGrouping,time,country,city,totalTransactionRevenue,transactions,timeOnSite,pageviews,sessionQualityDim,date,visitId,type,productRefundAmount,productQuantity,productPrice,productRevenue,productSKU,v2ProductName,v2ProductCategory,itemQuantity,itemRevenue,transactionRevenue,transactionId,eCommerceAction_type
+2352233424314349714,Referral,124087,United States,New York,,,502,22,,20160921,1474481366,PAGE,,,2800000,,GGOEGAAX0037,Google Sunglasses,Home/Accessories/Fun/,,,,,0
+1288455778021488307,Referral,1878214,Belgium,not available in demo dataset,,,2588,52,,20161015,1476546559,PAGE,,,1200000,,GGOEGAAX0098,7&quot; Dog Frisbee,Home/Accessories/Pet/,,,,,0
+2294678809767887639,Referral,62913,United States,not available in demo dataset,,,532,26,,20161017,1476750065,PAGE,,,1200000,,GGOEGAAX0098,7&quot; Dog Frisbee,Home/Accessories/Pet/,,,,,0
+1196842825113146194,Referral,214659,United States,Mountain View,153000000,1,1529,50,,20161113,1479094839,PAGE,,,1200000,,GGOEGAAX0098,7&quot; Dog Frisbee,Home/Accessories/Pet/,,,,,0
+544389788969817286,Direct,282357,United States,San Francisco,,,507,33,,20170217,1487376169,PAGE,,,1200000,,GGOEGAAX0098,Google 7-inch Dog Flying Disc,Home/Accessories/Pet/,,,,,0
+8403659038374693323,Direct,2036889,United States,Palo Alto,,,2255,28,,20161115,1479253507,PAGE,,,1200000,,GGOEGAAX0098,7&quot; Dog Frisbee,Home/Accessories/Pet/,,,,,0
+6263830761942479963,Referral,728819,United States,not available in demo dataset,,,858,18,,20170221,1487707624,PAGE,,,1200000,,GGOEGAAX0098,7&quot; Dog Frisbee,Home/Accessories/Pet/,,,,,0
+5804926577039377233,Referral,95507,United States,not available in demo dataset,,,248,16,,20160915,1473978883,PAGE,,,19190000,,GGOEGAAX0127,Android 24 oz Contigo Bottle,Home/Drinkware/Water Bottles and Tumblers/,,,,,0
+1852798248027947360,Direct,577931,United States,Mountain View,153000000,1,652,18,,20161218,1482082549,PAGE,,,5590000,,GGOEGAAX0168,Google Pet Feeding Mat,Home/Accessories/Pet/,,,,,0
+9107008690097779629,Direct,560912,United States,not available in demo dataset,,,744,27,,20170501,1493677132,PAGE,,,5590000,,GGOEGAAX0168,Google Pet Feeding Mat,Home/Accessories/Pet/,,,,,0
+655228336256010683,Referral,157178,United States,Sunnyvale,,,200,13,,20170530,1496164275,PAGE,,,5590000,,GGOEGAAX0168,Google Pet Feeding Mat,Home/Accessories/Pet/,,,,,0
+7331881644830087362,Direct,1700856,United States,Pryor,,,2747,38,,20161028,1477672148,PAGE,,,21590000,,GGOEGAAX0213,Yoga Mat,Home/Accessories/Sports & Fitness/,,,,,0
+3254952304012843567,Referral,152549,United States,Palo Alto,,,225,12,,20161027,1477617344,PAGE,,,21590000,,GGOEGAAX0213,Yoga Mat,Home/Accessories/Sports & Fitness/,,,,,0
+2780139763136736009,Referral,154634,United States,Mountain View,,,204,14,,20161115,1479234574,PAGE,,,21590000,,GGOEGAAX0213,Yoga Mat,Home/Accessories/Sports & Fitness/,,,,,0
+1788463590029004004,Display,0,Canada,Montreal,,,,1,,20160802,1470125424,PAGE,,,26990000,,GGOEGAAX0213,Yoga Mat,Home/Fun/,,,,,0
+7650228378044228088,Referral,585569,United States,not available in demo dataset,,,668,14,,20170506,1494059882,PAGE,,,21590000,,GGOEGAAX0213,Yoga Mat,Home/Accessories/Sports & Fitness/,,,,,0
+3290146841430964493,Organic Search,214613,United States,San Jose,,,273,26,,20161016,1476675938,PAGE,,,21590000,,GGOEGAAX0213,Yoga Mat,Home/Accessories/Sports & Fitness/,,,,,0
+3470906211474381320,Referral,71691,United States,not available in demo dataset,,,96,10,,20160805,1470420758,PAGE,,,31990000,,GGOEGAAX0310,Google Heavyweight Long Sleeve Hero Tee Burgundy,Home/Shop by Brand/,,,,,0
+8588238917361961084,Organic Search,84333,United States,San Francisco,,,122,10,,20160802,1470196160,PAGE,,,43990000,,GGOEGAAX0311,Google Heavyweight Long Sleeve Hero Tee Navy,Home/Shop by Brand/,,,,,0
+3606096616141145329,Direct,81758,United States,not available in demo dataset,,,146,15,,20160801,1470093843,PAGE,,,36990000,,GGOEGAAX0335,YouTube Men's Long Sleeve Pullover Badge Tee Heather,Home/Shop by Brand/,,,,,0
+3036536179298397779,Referral,21589,United States,Seattle,35490000,1,879,45,,20160805,1470441781,PAGE,,,44790000,,GGOEGAAX0360,Google Women's Fleece Hoodie,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+5778790813172527914,Organic Search,209686,United States,Mountain View,,,213,16,,20160802,1470174023,PAGE,,,44790000,,GGOEGAAX0361,Android Women's Fleece Hoodie,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+0101246539776970727,Referral,104946,United States,Chicago,,,206,11,,20160815,1471284487,PAGE,,,44790000,,GGOEGAAX0361,Android Women's Fleece Hoodie,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+3842974205360520287,Direct,1756318,United States,Mountain View,386700000,1,3210,33,,20160806,1470471835,PAGE,,,44790000,,GGOEGAAX0361,Android Women's Fleece Hoodie,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+862629398621481731,Referral,851816,United States,Atlanta,23190000,1,863,24,,20160928,1475095967,PAGE,,,87990000,,GGOEGAAX0568,Google Men's Watershed Full Zip Hoodie Grey,Home/Apparel/Men's/Men's-Performance Wear/,,,,,0
+2262339733727973704,Referral,187699,United States,not available in demo dataset,,,363,25,,20160926,1474913628,PAGE,,,95990000,,GGOEGAAX0569,Google Men's Performance Full Zip Jacket Black,Home/Apparel/Men's/Men's-Performance Wear/,,,,,0
+3714572251978105100,Organic Search,40901,Italy,not available in demo dataset,,,165,13,,20161006,1475782113,PAGE,,,54990000,,GGOEGAAX0570,Google Men's Short Sleeve Performance Badge Tee Charcoal,Home/Apparel/Men's/Men's-Performance Wear/,,,,,0
+8407658702492337533,Referral,56346,United States,Austin,,,140,8,,20161005,1475696513,PAGE,,,43990000,,GGOEGAAX0570,Google Men's Short Sleeve Performance Badge Tee Charcoal,Home/Apparel/Men's/Men's-Performance Wear/,,,,,0
+7907949247529261129,Referral,42663,United States,Mountain View,,,65,7,,20161005,1475692040,PAGE,,,54990000,,GGOEGAAX0570,Google Men's Short Sleeve Performance Badge Tee Charcoal,Home/Apparel/Men's/Men's-Performance Wear/,,,,,0
+5147300688603884511,Referral,162106,United States,Chicago,,,194,9,,20160923,1474662570,PAGE,,,87990000,,GGOEGAAX0571,Google Men's Performance 1/4 Zip Pullover Heather/Black,Home/Apparel/Men's/Men's-Performance Wear/,,,,,0
+2384690472453465720,Referral,792857,United States,not available in demo dataset,168020000,1,1957,66,,20160906,1473214674,PAGE,,,74390000,,GGOEGAAX0575,Google Women's Weatherblock Shell Jacket Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+8168998197120204877,Referral,204514,United States,Mountain View,,,597,27,,20160804,1470358769,PAGE,,,74390000,,GGOEGAAX0575,Google Women's Weatherblock Shell Jacket Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+3907770685196037697,Organic Search,70210,United States,not available in demo dataset,,,103,5,,20160801,1470050008,PAGE,,,92990000,,GGOEGAAX0575,Google Women's Weatherblock Shell Jacket Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+9687859718158570254,Direct,8782,United States,not available in demo dataset,,,76,5,,20160907,1473285102,PAGE,,,92990000,,GGOEGAAX0575,Google Women's Weatherblock Shell Jacket Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+2552304984523530435,Organic Search,44872,Taiwan,not available in demo dataset,,,526,22,,20170306,1488808094,PAGE,,,92990000,,GGOEGAAX0575,Google Women's Weatherblock Shell Jacket Black,Home/Spring Sale!/,,,,,0
+6441139153486258905,Referral,211376,United States,New York,,,4929,56,,20160928,1475093557,PAGE,,,86390000,,GGOEGAAX0576,Google Women's Softshell Jacket Black/Grey,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+7649527436435940323,Referral,443011,United States,Seattle,433180000,1,789,18,,20170626,1498495024,PAGE,,,95990000,,GGOEGAAX0578,Google Women's Performance Full Zip Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+1220174290630425237,Referral,64322,United States,Chicago,,,548,33,,20170213,1487028996,PAGE,,,95990000,,GGOEGAAX0578,Google Women's Performance Full Zip Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+5597814577313430335,Referral,424847,United States,Santa Clara,172130000,2,4910,105,93,20170718,1500440630,PAGE,,,95990000,,GGOEGAAX0578,Google Women's Performance Full Zip Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+0509291892849260639,Referral,50067,United States,Kirkland,,,442,25,,20160928,1475126406,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+4921413806940784676,Referral,0,United States,Santa Clara,,,,1,,20170104,1483573761,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2431655468192551426,Referral,69726,United States,New York,,,441,13,,20170227,1488223542,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+805296384564063218,Paid Search,186579,United States,not available in demo dataset,,,276,10,,20161211,1481482535,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2865017243883166191,Referral,3048112,United States,Seattle,547560000,2,3599,69,,20170331,1491014198,PAGE,,,43990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+4182513156571567937,Referral,165928,United States,San Francisco,75780000,1,1140,49,67,20170714,1500079238,PAGE,,,43990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+3671379010744845647,Referral,340378,United States,Kirkland,231580000,1,1014,21,,20170524,1495664823,PAGE,,,43990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+9525538709571335494,Organic Search,152757,United States,not available in demo dataset,22390000,1,511,27,,20170529,1496079243,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+4174724937900406216,Organic Search,644775,Mexico,not available in demo dataset,,,2381,40,,20160927,1474993567,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+3263721705523308917,Social,83721,India,Chennai,,,225,4,,20170610,1497088114,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+6886228315505774018,Referral,49092,United States,Mountain View,,,690,20,50,20170719,1500500574,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+1391697903115543656,Organic Search,51267,Philippines,not available in demo dataset,,,123,7,,20170606,1496777756,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2036238107409938750,Direct,115168,Canada,Kitchener,,,209,8,,20161208,1481227797,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+549841770362329773,Organic Search,22530,Australia,Sydney,,,1627,33,,20170213,1487034166,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+0878559296241041384,Organic Search,15387,United States,San Francisco,,,21,4,,20170206,1486445928,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+8788140334977488042,Referral,9149,United Kingdom,not available in demo dataset,,,93,9,,20160916,1474062486,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+5149788969578895545,Referral,248859,United States,Mountain View,,,2674,65,,20170225,1488047638,PAGE,,,43990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+8213353902738846394,Direct,0,United States,not available in demo dataset,,,77,3,,20170306,1488811971,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+0628085919317269220,Referral,306861,United States,New York,,,331,16,,20161110,1478833528,PAGE,,,54990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+3104253382416349385,Referral,17238,United States,not available in demo dataset,,,17,2,,20160912,1473690003,PAGE,,,87990000,,GGOEGAAX0580,Google Women's 1/4 Zip Jacket Charcoal,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+212879651166366114,Referral,1486200,United States,Chicago,157900000,1,1954,71,,20161005,1475685395,PAGE,,,87990000,,GGOEGAAX0580,Google Women's 1/4 Zip Jacket Charcoal,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+5632057874905965538,Referral,79780,United States,Austin,,,316,23,,20160908,1473347395,PAGE,,,87990000,,GGOEGAAX0580,Google Women's 1/4 Zip Jacket Charcoal,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+7765753559423177680,Referral,194241,United States,Mountain View,,,238,19,,20160927,1475007577,PAGE,,,87990000,,GGOEGAAX0580,Google Women's 1/4 Zip Jacket Charcoal,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+2632562837333361742,Referral,345161,United States,San Francisco,,,458,32,,20161115,1479201090,PAGE,,,79190000,,GGOEGAAX0584,Google Women's Yoga Pants,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+9874261611185262360,Referral,98592,United States,not available in demo dataset,,,161,8,,20161212,1481529355,PAGE,,,79190000,,GGOEGAAX0584,Google Women's Yoga Pants,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+8598995083021048462,Referral,1240842,United States,San Francisco,498500000,1,2808,99,,20161223,1482524461,PAGE,,,79190000,,GGOEGAAX0584,Google Women's Yoga Pants,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+7327838181827173080,Referral,207622,United States,Mountain View,,,208,11,,20170607,1496880638,PAGE,,,79190000,,GGOEGAAX0584,Google Women's Yoga Pants,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+7782217458552505409,Referral,674425,United States,Mountain View,,,1442,36,,20160826,1472249776,PAGE,,,95990000,,GGOEGAAX0585,Google Women's Insulated Thermal Vest Navy,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+1716600198046366985,Referral,248070,United States,Washington,69570000,1,1976,71,,20160928,1475079573,PAGE,,,95990000,,GGOEGAAX0585,Google Women's Insulated Thermal Vest Navy,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+2677639396530855017,Referral,28670,United States,New York,64210000,1,171,11,,20160829,1472490780,PAGE,,,95990000,,GGOEGAAX0585,Google Women's Insulated Thermal Vest Navy,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+3445305317008053078,Referral,4945,United States,Mountain View,,,31,4,,20160919,1474307942,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+4985703629807810187,Organic Search,396182,United States,New York,33980000,1,972,37,,20170126,1485474927,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2583264772898317696,Referral,45664,United States,Milpitas,,,734,20,,20170522,1495501120,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+9029794295932939024,Referral,1592631,United States,not available in demo dataset,1223120000,1,2212,82,,20170322,1490215541,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+9031062892924366475,Direct,8408,United States,Minneapolis,,,118,8,,20161004,1475611123,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+1265882605141004634,Organic Search,131694,United States,San Jose,,,1079,47,,20161127,1480289347,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+5350929639685628542,Direct,3860656,Jamaica,not available in demo dataset,,,3914,37,,20170613,1497413831,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+8284472012190629219,Organic Search,93424,Canada,not available in demo dataset,,,107,11,,20160916,1474078457,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+3511329027131701712,Referral,34561,Australia,Sydney,,,82,8,,20160901,1472798212,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+9776866936964312100,Referral,217410,United States,Los Angeles,,,1058,31,,20160919,1474316351,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+0294366291415691744,Referral,90351,Switzerland,not available in demo dataset,,,523,18,,20160904,1472988539,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+8795948977448009623,Organic Search,661689,Japan,Minato,,,693,34,,20170605,1496711079,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+3947408789017602897,Referral,116379,United States,not available in demo dataset,,,116,6,,20170327,1490633687,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+6732676094927932512,Organic Search,213453,Chile,Santiago,,,1150,30,,20170127,1485533601,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+972352852198964896,Direct,453670,Poland,Warsaw,,,2094,7,,20170121,1484990291,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+5277075589531725237,Referral,31496,United States,New York,,,148,7,,20161027,1477599070,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+8967672778371259956,Referral,55979,United States,Chicago,,,674,27,,20160912,1473713006,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+0257844809631733804,Referral,386347,Singapore,(not set),,,911,35,,20170409,1491802543,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+3878813186182761097,Paid Search,62218,United States,not available in demo dataset,,,177,12,,20170601,1496337421,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+462440408747121179,Direct,0,Spain,not available in demo dataset,,,,1,,20170224,1487955174,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+4241490892714246634,Referral,206820,United States,New York,,,310,11,,20170201,1485985375,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+9941658201726430003,Organic Search,142867,Canada,Burnaby,,,143,5,,20170330,1490899043,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+7114637321796643832,Referral,62466,United States,Kirkland,,,75,8,,20160928,1475103772,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+8106437540880963283,Organic Search,1519797,Ecuador,not available in demo dataset,,,2222,94,,20161220,1482274400,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+7415472348124710830,Organic Search,114333,United States,not available in demo dataset,,,345,28,,20161124,1480001040,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+3938333013125986412,Referral,274757,United States,Mountain View,,,275,3,,20160914,1473891855,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+0890470682853335348,Direct,89190,United States,Mountain View,,,257,5,,20160808,1470704010,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+7276806823427504487,Referral,221891,United States,Santa Clara,,,529,29,,20161007,1475908549,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+900377048740181164,Organic Search,73211,United States,Mountain View,,,170,7,,20170515,1494885067,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+6862738062437634632,Referral,94325,United States,not available in demo dataset,74580000,1,1898,20,,20161227,1482873220,PAGE,,,83990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+493654105073653046,Referral,44898,United States,Chicago,,,75,7,,20170120,1484933189,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2118493344511266050,Referral,492343,Germany,Hamburg,,,506,6,,20170216,1487238423,PAGE,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2032607464005118077,Paid Search,54678,United States,not available in demo dataset,,,180,13,,20160915,1473997060,PAGE,,,139990000,,GGOEGAAX0587,Google Women's Zip Hoodie Grey,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+7725488835335622850,Direct,52519,United States,New York,,,99,4,,20160808,1470662894,PAGE,,,139990000,,GGOEGAAX0587,Google Women's Zip Hoodie Grey,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+6651087220529552909,Direct,197337,Canada,not available in demo dataset,,,2034,26,,20170301,1488405054,PAGE,,,139990000,,GGOEGAAX0587,Google Women's Zip Hoodie Grey,Home/Spring Sale!/,,,,,0
+0482843755681270604,Referral,60674,United States,Mountain View,,,1137,25,,20160801,1470083682,PAGE,,,111990000,,GGOEGAAX0587,Google Women's Zip Hoodie Grey,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+3099986846780606476,Referral,153915,United States,New York,,,170,12,,20160809,1470780425,PAGE,,,139990000,,GGOEGAAX0587,Google Women's Zip Hoodie Grey,Home/Shop by Brand/,,,,,0
+8436426603099391262,Referral,321634,United States,Ann Arbor,,,516,27,,20160815,1471312710,PAGE,,,111990000,,GGOEGAAX0587,Google Women's Zip Hoodie Grey,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+6641851947740341389,Organic Search,15837,United States,Mountain View,,,136,11,,20160928,1475100258,PAGE,,,139990000,,GGOEGAAX0587,Google Women's Zip Hoodie Grey,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+7338875442089734286,Organic Search,11028,United States,Sunnyvale,,,11,3,,20160901,1472758157,PAGE,,,139990000,,GGOEGAAX0587,Google Women's Zip Hoodie Grey,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+1957458976293878100,Organic Search,6271378,United States,not available in demo dataset,,,11252,147,,20160916,1474043928,PAGE,,,139990000,,GGOEGAAX0587,Google Women's Zip Hoodie Grey,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+5121453966155985426,Referral,0,United States,not available in demo dataset,,,,1,,20160803,1470263836,PAGE,,,139990000,,GGOEGAAX0587,Google Women's Zip Hoodie Grey,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+5683651223956848333,Organic Search,684353,United States,not available in demo dataset,,,736,43,,20160805,1470419957,PAGE,,,139990000,,GGOEGAAX0587,Google Women's Zip Hoodie Grey,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+1353302875135420345,Direct,482902,United States,Salem,,,496,7,,20160808,1470684670,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+0267830135658533597,Referral,112651,United States,San Jose,,,3208,21,,20170328,1490760480,PAGE,,,75990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+7639746917881758421,Direct,41560,United States,New York,,,42,4,,20160909,1473457962,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+141447682617459888,Social,504401,United States,Mountain View,,,670,23,,20160831,1472666645,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+1530842382164290522,Organic Search,9237,United States,San Francisco,,,169,10,,20170212,1486958508,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+578122184400476410,Referral,78897,United States,Santa Clara,,,143,13,,20160811,1470957151,PAGE,,,75990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+3842264291833235137,Direct,0,United States,San Jose,,,157,4,,20170421,1492784808,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+1716600198046366985,Referral,380802,United States,Washington,69570000,1,1976,71,,20160928,1475079573,PAGE,,,75990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+6295374321665161260,Referral,145912,United States,Atlanta,,,146,5,,20161126,1480205730,PAGE,,,75990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+248335212593176941,Referral,146169,United States,Mountain View,,,146,4,,20170504,1493944403,PAGE,,,75990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+6615654869230068605,Referral,17695,United States,Mountain View,,,159,16,,20160817,1471461795,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+4350325142231120323,Referral,53962,United States,New York,,,89,9,,20161004,1475612933,PAGE,,,75990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+8551387579355778160,Referral,107158,United States,Washington,,,135,7,,20161005,1475679754,PAGE,,,75990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+9152959729015087415,Referral,74786,United States,not available in demo dataset,,,75,4,,20161030,1477850262,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+0434744388841615987,Direct,6420212,Poland,not available in demo dataset,,,9974,78,,20161127,1480289159,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+5004782708293382285,Referral,13182,United States,New York,,,130,7,,20170607,1496844982,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+1906960422664572901,Referral,330200,United States,Mountain View,,,339,6,,20160920,1474390509,PAGE,,,75990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2974451377941389888,Direct,258078,United States,not available in demo dataset,,,399,13,,20161217,1482002516,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+5031234556107572838,Display,0,United States,not available in demo dataset,,,,1,,20160908,1473366382,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+8672306159045185234,Organic Search,22165,United States,not available in demo dataset,,,22,3,,20160825,1472158570,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+0421160943095533695,Organic Search,221866,United States,not available in demo dataset,,,292,12,,20170303,1488554112,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+8864400361725830841,Organic Search,85440,United States,San Francisco,,,126,11,,20161205,1481000664,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+6598758863646627812,Display,115776,United States,Austin,,,722,38,,20170105,1483651368,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2853274172920513842,Direct,0,United States,not available in demo dataset,,,93,3,,20170301,1488412012,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+0037518757923116572,Referral,35676,United States,New York,,,619,9,,20160903,1472916929,PAGE,,,75990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+3239556716130526659,Organic Search,61725,Thailand,not available in demo dataset,,,62,7,,20161221,1482321888,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+9237271576556447449,Referral,2506205,United States,Mountain View,20590000,1,2642,38,,20170122,1485136484,PAGE,,,75990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2272261388275873325,Organic Search,1619363,United States,not available in demo dataset,,,2130,12,,20160811,1470921941,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+3336432198726922784,Referral,519925,United States,San Francisco,47490000,1,1486,44,73,20170706,1499404637,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+6820515962310157695,Direct,23305,United States,not available in demo dataset,,,87,10,,20160828,1472417747,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+5577152469652494440,Social,13535,Hungary,not available in demo dataset,,,30,3,,20170228,1488294314,PAGE,,,94990000,,GGOEGAAX0588,Google Women's Shell Jacket Blue/Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+1856749147915772585,Organic Search,940395,Canada,Montreal,,,970,11,,20160916,1474053063,PAGE,,,17590000,,GGOEGAAX0590,Google Men's Short Sleeve Performance Badge Tee Navy,Home/Apparel/Men's/Men's-Performance Wear/,,,,,0
+8204381099227370562,Referral,7998,United States,not available in demo dataset,,,547,11,,20160923,1474661349,PAGE,,,17590000,,GGOEGAAX0590,Google Men's Short Sleeve Performance Badge Tee Navy,Home/Apparel/Men's/Men's-Performance Wear/,,,,,0
+3407121530819254500,Referral,1643145,United States,Mountain View,,,1709,15,,20160916,1474064683,PAGE,,,17590000,,GGOEGAAX0591,Google Men's Short Sleeve Performance Badge Tee Pewter,Home/Apparel/Men's/Men's-Performance Wear/,,,,,0
+354897802426513779,Referral,1880347,United States,not available in demo dataset,,,2233,41,,20170401,1491060813,PAGE,,,79190000,,GGOEGAAX0598,Google Men's Convertible Vest-Jacket Pewter,Home/Spring Sale!/,,,,,0
+8558100871047996433,Referral,99451,United States,Mountain View,,,111,9,,20161212,1481573022,PAGE,,,17590000,,GGOEGAAX0599,Google Women's Short Sleeve Performance Tee Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+0155625286425581256,Referral,57160,United Kingdom,not available in demo dataset,,,201,10,,20161030,1477842756,PAGE,,,17590000,,GGOEGAAX0599,Google Women's Short Sleeve Performance Tee Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+0103771117189740387,Referral,293439,United States,Mountain View,,,318,12,,20161222,1482432013,PAGE,,,17590000,,GGOEGAAX0599,Google Women's Short Sleeve Performance Tee Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2351114661863007836,Referral,147193,United States,New York,,,337,11,,20170124,1485296742,PAGE,,,17590000,,GGOEGAAX0599,Google Women's Short Sleeve Performance Tee Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+403030051883782668,Referral,348759,United States,Austin,,,1576,71,,20170126,1485461861,PAGE,,,17590000,,GGOEGAAX0600,Google Women's Short Sleeve Performance Tee Navy,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+1859987569807691827,Direct,941675,United States,Mountain View,950370000,1,3162,72,,20170320,1490028135,PAGE,,,17590000,,GGOEGAAX0601,Google Women's Short Sleeve Performance Tee Pewter,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+3239556716130526659,Organic Search,695198,Thailand,not available in demo dataset,,,695,14,,20170227,1488256477,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+0261203701989483879,Direct,42218,United States,Sunnyvale,,,106,9,,20160801,1470073588,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+3316548583066519237,Referral,62354,United States,Mountain View,,,377,14,,20161215,1481829593,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2231314045443987532,Organic Search,57450,United States,New York,,,158,15,,20160912,1473735802,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+4776430236860680101,Referral,1625260,South Korea,Seoul,,,3657,31,,20170110,1484103815,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+0408952835543810044,Referral,3262397,Bangladesh,(not set),,,3262,11,,20170207,1486476888,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+735295429169481427,Direct,12644,United States,not available in demo dataset,,,18,3,,20170219,1487547779,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+3580134837862943818,Direct,202676,United States,New York,,,243,11,,20170217,1487369747,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2561809586250538824,Direct,30046,Nicaragua,not available in demo dataset,,,190,7,1,20170707,1499432033,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+0001459455618502072,Organic Search,89752,United States,not available in demo dataset,,,90,3,,20161120,1479697776,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+9055644031629567861,Referral,49179,United States,Austin,,,751,16,,20170419,1492645090,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+6331218449494890406,Paid Search,312549,United States,not available in demo dataset,,,313,5,,20170424,1493061786,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+1161533014126093616,Organic Search,191053,United States,New York,,,504,24,,20160816,1471399344,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+0434744388841615987,Direct,6058258,Poland,not available in demo dataset,,,9974,78,,20161127,1480289159,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+3390447052793063740,Organic Search,0,Spain,not available in demo dataset,,,167,6,,20160904,1473026741,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+6585411219620992725,Referral,133658,United States,Mountain View,,,137,17,,20160920,1474403909,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+4467867372068670514,Referral,171883,United States,not available in demo dataset,,,228,11,,20170517,1495072937,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+0338277787223393044,Organic Search,114026,United States,Austin,,,370,20,,20160805,1470424620,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+4049004222839572092,Social,14374,Canada,Montreal,,,40,3,,20170307,1488914235,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2708292358995422859,Organic Search,45151,Canada,Toronto,,,70,6,,20160917,1474125143,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+3921649958751416379,Paid Search,362724,United States,not available in demo dataset,544380000,1,1413,42,,20170614,1497474122,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+1215236650441894019,Direct,43270,India,not available in demo dataset,,,59,3,,20160824,1472041075,PAGE,,,64990000,,GGOEGAAX0602,Google Women's 1/4 Zip Performance Pullover Black,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+9544205808960407720,Paid Search,36265,United States,not available in demo dataset,,,55,5,,20161002,1475455450,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+8502518508095808709,Organic Search,765989,Canada,not available in demo dataset,,,1571,52,,20161122,1479866358,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+5565720100142563371,Referral,47086,United States,Sunnyvale,,,1387,12,,20160825,1472140545,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+4001528154873523828,Direct,1020116,United States,New York,,,1020,17,,20160929,1475175739,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+4972068835599505933,Direct,1640564,United States,not available in demo dataset,,,3876,55,,20170220,1487599814,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+8380542931232724976,Organic Search,2177328,United States,New York,,,3232,55,,20160812,1471015510,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+0091524028507341203,Direct,96934,United States,not available in demo dataset,,,955,32,,20160805,1470382472,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+2614353227411255830,Organic Search,14775,United States,not available in demo dataset,,,38,4,,20160807,1470610234,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+2477988380306811354,Referral,60720,United States,Mountain View,,,420,16,,20161212,1481577360,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+3426578225896060720,Referral,7459,United States,not available in demo dataset,,,497,27,,20160914,1473880907,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+5337787787420805369,Direct,574061,United States,Sunnyvale,,,594,18,,20170608,1496986461,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2339818672404404924,Referral,1139022,United States,New York,,,1533,30,,20161215,1481813861,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+2522702736509508827,Direct,436705,United States,not available in demo dataset,,,790,31,,20170202,1486087823,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+999203594099745000,Organic Search,677447,United States,San Jose,,,815,17,,20160928,1475130820,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+8182110747262771797,Organic Search,222154,United States,not available in demo dataset,,,269,25,,20160820,1471724029,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+9919369755115039693,Direct,647673,United States,not available in demo dataset,,,648,11,,20170222,1487802781,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+583315278816884236,Organic Search,52862,United Kingdom,not available in demo dataset,,,126,5,,20170330,1490884453,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Spring Sale!/,,,,,0
+274035778263408429,Referral,475087,United States,Mountain View,,,683,30,,20161214,1481773936,PAGE,,,64990000,,GGOEGAAX0603,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+175264211556486362,Referral,35259,United States,not available in demo dataset,,,225,11,,20160911,1473611614,PAGE,,,79190000,,GGOEGAAX0607,Google Women's Convertible Vest-Jacket Sea Foam Green,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+0348320475003267588,Referral,816393,United States,Austin,,,861,38,,20160901,1472745885,PAGE,,,79190000,,GGOEGAAX0607,Google Women's Convertible Vest-Jacket Sea Foam Green,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+9590846031894656114,Referral,140357,United States,Mountain View,,,631,15,,20161123,1479973740,PAGE,,,79190000,,GGOEGAAX0607,Google Women's Convertible Vest-Jacket Sea Foam Green,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+237239095346270388,Referral,1075436,United States,Sunnyvale,155000000,1,1137,41,,20170212,1486887316,PAGE,,,79190000,,GGOEGAAX0607,Google Women's Convertible Vest-Jacket Sea Foam Green,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+0084383590795093998,Referral,32292,United States,Irvine,72360000,1,352,21,,20160907,1473285480,PAGE,,,79190000,,GGOEGAAX0607,Google Women's Convertible Vest-Jacket Sea Foam Green,Home/Apparel/Women's/Women's-Outerwear/,,,,,0
+8714813617554112547,Direct,1746276,Taiwan,(not set),,,1837,39,,20170206,1486450721,PAGE,,,19190000,,GGOEGAAX0610,Google Onesie Red/Graphite,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+4026719286720200088,Direct,603959,United States,New York,102950000,1,1134,45,77,20170731,1501533968,PAGE,,,19190000,,GGOEGAAX0610,Google Onesie Red/Graphite,Home/Apparel/Kid's/,,,,,0
+5646360372391287672,Referral,80219,United States,Sunnyvale,47780000,1,292,14,,20170426,1493251539,PAGE,,,19190000,,GGOEGAAX0610,Google Onesie Red/Graphite,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+1182594311076605554,Referral,98051,United States,Cambridge,,,231,13,,20161017,1476735035,PAGE,,,19190000,,GGOEGAAX0610,Google Onesie Red/Graphite,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+8721928023183558018,Referral,41988,United States,not available in demo dataset,,,423,14,,20161127,1480305973,PAGE,,,19190000,,GGOEGAAX0610,Google Onesie Red/Graphite,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+6773504129316656025,Referral,209894,United States,Chicago,168700000,1,2082,26,,20170117,1484687617,PAGE,,,19190000,,GGOEGAAX0610,Google Onesie Red/Graphite,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+9738687776376381043,Referral,144743,United States,not available in demo dataset,,,384,18,,20161007,1475848509,PAGE,,,19190000,,GGOEGAAX0611,Google Onesie Red,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+4076479519079120560,Referral,756475,United States,not available in demo dataset,,,2270,45,,20170123,1485220166,PAGE,,,19190000,,GGOEGAAX0611,Google Onesie Red,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+1631114716503974240,Organic Search,485183,United States,Mountain View,,,591,28,,20160830,1472586188,PAGE,,,19190000,,GGOEGAAX0611,Google Onesie Red,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+9986718535758414246,Referral,213754,United States,Chicago,,,2484,29,,20170316,1489680912,PAGE,,,19190000,,GGOEGAAX0611,Google Onesie Red,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+6562556317275656403,Referral,46972,United States,New York,,,2741,25,,20160926,1474905482,PAGE,,,19190000,,GGOEGAAX0611,Google Onesie Red,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+4795705375773949345,Referral,121104,United States,Mountain View,,,193,11,,20161215,1481831363,PAGE,,,19190000,,GGOEGAAX0612,Google Onesie Royal Blue,Home/Apparel/Kid's/,,,,,0
+0777505015966198932,Referral,66415,Turkey,Istanbul,,,614,27,,20170203,1486132159,PAGE,,,19190000,,GGOEGAAX0612,Google Onesie Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+4788515086329868393,Referral,342526,United States,Kirkland,,,390,36,,20160914,1473890585,PAGE,,,19190000,,GGOEGAAX0612,Google Onesie Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+6657065323844520941,Referral,48445,United States,not available in demo dataset,,,93,8,,20170217,1487364238,PAGE,,,19190000,,GGOEGAAX0612,Google Onesie Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+9320922789328934499,Referral,3266185,United States,Mountain View,295560000,1,4133,49,,20161211,1481514388,PAGE,,,19190000,,GGOEGAAX0613,Google Onesie Green,Home/Apparel/Kid's/,,,,,0
+4266823904408093435,Organic Search,767193,United States,Mountain View,,,1444,52,,20161215,1481844565,PAGE,,,19190000,,GGOEGAAX0613,Google Onesie Green,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+7156496591136512892,Referral,621912,United States,New York,,,1183,27,,20170531,1496264412,PAGE,,,19190000,,GGOEGAAX0613,Google Onesie Green,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+4205789572403582709,Referral,51507,United States,Sunnyvale,,,52,3,,20170202,1486077535,PAGE,,,19190000,,GGOEGAAX0613,Google Onesie Green,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+853098633014712543,Organic Search,99215,United States,New York,,,714,28,,20170224,1487966847,PAGE,,,19190000,,GGOEGAAX0613,Google Onesie Green,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+8349616493393634157,Referral,1048501,United States,not available in demo dataset,192090000,1,3046,72,,20161112,1478966467,PAGE,,,19190000,,GGOEGAAX0613,Google Onesie Green,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+566233357235128805,Referral,15133,United Kingdom,not available in demo dataset,,,527,37,,20161009,1476022438,PAGE,,,19190000,,GGOEGAAX0613,Google Onesie Green,Home/Apparel/Kid's/,,,,,0
+0134706903159877912,Referral,151631,United States,New York,186580000,1,1255,32,,20160906,1473194961,PAGE,,,19190000,,GGOEGAAX0613,Google Onesie Green,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+8121505489305728036,Referral,410902,United States,San Jose,,,411,13,,20161123,1479916391,PAGE,,,19190000,,GGOEGAAX0614,YouTube Onesie Heather,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+1220670917739398025,Referral,160456,Taiwan,(not set),,,160,3,,20170605,1496664618,PAGE,,,19190000,,GGOEGAAX0614,YouTube Onesie Heather,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+6667546935005585316,Referral,202203,United States,Chicago,,,345,10,,20170522,1495468008,PAGE,,,19190000,,GGOEGAAX0614,YouTube Onesie Heather,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+1125267073760839655,Referral,15225,United States,New York,47270000,1,771,16,,20170424,1493067840,PAGE,,,19190000,,GGOEGAAX0614,YouTube Onesie Heather,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+819875025512378535,Referral,160064,United States,Los Angeles,259350000,2,3812,59,,20161228,1482958944,PAGE,,,19190000,,GGOEGAAX0614,YouTube Onesie Heather,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+9362386360867322501,Direct,841721,United States,Mountain View,,,961,38,,20160831,1472690146,PAGE,,,19190000,,GGOEGAAX0614,YouTube Onesie Heather,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+4336672791984787930,Referral,876756,United States,Seattle,52930000,1,2481,86,,20161026,1477501841,PAGE,,,19190000,,GGOEGAAX0615,Android Onesie Sprout Green,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+2064208700538963692,Referral,685411,Brazil,Sao Paulo,,,1205,54,,20160905,1473106877,PAGE,,,19190000,,GGOEGAAX0616,Android Onesie Baby Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+4197411661801518017,Referral,671563,United States,not available in demo dataset,,,1106,35,,20161017,1476735993,PAGE,,,19190000,,GGOEGAAX0616,Android Onesie Baby Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+99045465815364266,Referral,15713,United States,Austin,,,205,14,,20161214,1481733040,PAGE,,,19190000,,GGOEGAAX0616,Android Onesie Baby Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+3774290640097206760,Organic Search,24700,Taiwan,(not set),,,1459,33,25,20170713,1500012253,PAGE,,,19190000,,GGOEGAAX0617,Android Onesie Gold,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+5473577267076739160,Referral,70127,United States,New York,,,647,19,,20161220,1482278486,PAGE,,,19190000,,GGOEGAAX0617,Android Onesie Gold,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+180256958938785739,Direct,90025,United States,Austin,,,115,6,,20160808,1470685120,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+7014582142672625433,Direct,436260,United States,not available in demo dataset,,,436,24,,20170213,1487008605,PAGE,,,30390000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+4978321449392721964,Referral,881972,United States,not available in demo dataset,53470000,1,2239,85,,20160814,1471195871,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+9085030584269619160,Referral,64429,United States,New York,48380000,1,670,21,,20161007,1475861982,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+0122177235757479550,Direct,540290,United States,New York,157000000,1,540,20,,20161125,1480125978,PAGE,,,30390000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+6930343571815317094,Organic Search,227558,United States,not available in demo dataset,,,512,9,,20170206,1486374584,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+0633789080639862884,Direct,459943,United States,Mountain View,,,815,41,71,20170707,1499480744,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+2053372181435037274,Organic Search,33088,United States,New York,,,33,2,,20170404,1491312246,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+0007085709230086297,Organic Search,86549,United States,not available in demo dataset,,,87,5,,20160811,1470957947,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Kids/,,,,,0
+8519286369138543667,Social,183903,United States,not available in demo dataset,,,219,8,,20170130,1485815778,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+7532706885274499060,Organic Search,505304,Russia,not available in demo dataset,,,912,29,,20170312,1489324456,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+2141898580848418041,Organic Search,49817,Colombia,not available in demo dataset,,,1008,18,,20170414,1492237596,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+5375413707340589099,Organic Search,300114,United States,not available in demo dataset,126780000,1,1366,40,,20161125,1480098709,PAGE,,,30390000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+8231226793121653160,Referral,1817033,United States,not available in demo dataset,,,1893,8,,20170629,1498760803,PAGE,,,30390000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+3667951463614980921,Referral,24758,United States,San Francisco,,,160,10,,20170123,1485243372,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+7907901946503528172,Organic Search,92410,Mexico,not available in demo dataset,,,92,2,,20170514,1494821302,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+5039693679894183284,Referral,50561,United States,Cambridge,62970000,1,1435,19,84,20170706,1499355609,PAGE,,,30390000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+7463731173819487687,Organic Search,295656,United States,Mountain View,,,1769,17,,20161213,1481699012,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+9225510387344592801,Organic Search,44489,United States,Mountain View,,,270,8,,20170621,1498061545,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+8710197997270437308,Direct,0,United States,not available in demo dataset,,,391,9,,20161114,1479144756,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+6223425047841334080,Organic Search,0,United States,Chicago,,,23,3,,20161126,1480218836,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+3774290640097206760,Organic Search,1375291,Taiwan,(not set),,,1459,33,25,20170713,1500012253,PAGE,,,30390000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+2214792212406633787,Referral,21463,United States,San Francisco,,,320,8,,20170530,1496190112,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+9823649200507269276,Organic Search,82850,Canada,Quebec City,,,83,4,,20161001,1475364026,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+1111657646756074795,Direct,105300,United States,Fremont,,,105,7,,20170701,1498970834,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+7809643517607858003,Organic Search,2749962,United States,not available in demo dataset,,,5288,173,,20161003,1475518402,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+150578457390945151,Referral,38099,United States,Mountain View,,,257,9,,20161014,1476461905,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+8208797176588625379,Referral,132476,United States,Irvine,,,2652,36,72,20170713,1499983855,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+7731876626616646233,Referral,6108,United States,not available in demo dataset,,,192,11,,20160927,1475031692,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+6428631225662970414,Referral,1273549,United States,New York,,,1793,42,,20161129,1480453528,PAGE,,,30390000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+0309705829438207327,Social,52839,Canada,Montreal,,,53,2,,20170427,1493329335,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+5815117142744412948,Display,68667,United States,Mountain View,,,372,7,,20170307,1488911842,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+7410648917338692919,Organic Search,36562,United States,not available in demo dataset,,,44,5,,20161208,1481207442,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+3808051597074008746,Direct,128747,Switzerland,Zurich,,,311,15,,20170322,1490175499,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+1752434786740503771,Direct,794785,United States,San Jose,,,795,10,,20161118,1479498752,PAGE,,,30390000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/,,,,,0
+0412717133781136097,Direct,1459070,Canada,Toronto,,,2210,37,,20170313,1489416277,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+6717448646208935633,Referral,25443,Canada,Toronto,,,1508,7,,20161115,1479244949,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+0077315914792769261,Organic Search,992607,Ireland,Dublin,,,1102,10,,20170531,1496243251,PAGE,,,30390000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+2904676266898670531,Direct,410677,Singapore,Singapore,,,1319,27,,20170326,1490521820,PAGE,,,30390000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+5134895011574736703,Organic Search,48908,United States,San Francisco,,,49,3,,20170208,1486607019,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+9390788073078665794,Organic Search,87814,Australia,Brisbane,,,280,13,,20170114,1484436042,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+5571230978639828527,Referral,31526,United States,Sunnyvale,,,89,6,,20170124,1485315539,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+0496552793942197989,Organic Search,59207,United Kingdom,not available in demo dataset,,,59,3,,20170501,1493652414,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+7519537977847703677,Direct,11276,Japan,not available in demo dataset,,,132,6,,20170113,1484369711,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+4147915401829012516,Organic Search,11648,United States,not available in demo dataset,,,299,12,,20161001,1475362947,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+442576033514551352,Direct,356576,United States,New York,125000000,1,740,24,,20170122,1485124739,PAGE,,,30390000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+6396549139085874526,Referral,1029374,United States,San Jose,308540000,1,1428,32,,20161215,1481820777,PAGE,,,30390000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+5647464995448192816,Organic Search,25678,United States,San Jose,,,26,3,,20170303,1488569633,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+400913504715815672,Paid Search,956320,United States,not available in demo dataset,,,980,10,,20170105,1483663985,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+1856749147915772585,Organic Search,81197,Canada,not available in demo dataset,,,1076,9,,20170418,1492528395,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+4774962189935177504,Organic Search,763121,United States,not available in demo dataset,,,763,41,,20160920,1474420350,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+4146829203413554720,Organic Search,1830507,Singapore,San Francisco,,,3609,54,,20161217,1482015845,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+1448426529573863064,Organic Search,106329,United States,not available in demo dataset,,,132,16,,20170514,1494774685,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+6904415728032094280,Referral,820765,United States,Los Angeles,,,821,25,,20170408,1491663724,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+3415965938625335790,Referral,281826,United States,New York,,,1062,55,,20170201,1485967495,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+1324614478013076368,Direct,71403,United States,Sunnyvale,,,98,7,,20170430,1493608961,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+5037208788065339806,Referral,6728725,United States,Mountain View,681400000,2,9275,149,,20161212,1481587574,PAGE,,,30390000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+0220093879292823718,Direct,0,United States,Chicago,,,12,2,,20160816,1471383963,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+9875294676971458360,Organic Search,189680,United States,not available in demo dataset,,,425,16,,20160819,1471620282,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Kids/,,,,,0
+5315382266855883329,Direct,8190,United States,not available in demo dataset,,,1731,72,,20160822,1471884865,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+5681205019525901991,Referral,350230,United States,not available in demo dataset,,,350,13,,20160919,1474325111,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+1871358821934133559,Direct,8088,Japan,Osaka,,,407,20,,20170525,1495774760,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+9611453235665038841,Referral,923890,United States,Sunnyvale,54660000,1,1372,27,,20170620,1498001522,PAGE,,,30390000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+3916827939116480368,Direct,164247,United States,San Francisco,,,192,8,,20160802,1470157366,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+8121505489305728036,Referral,0,United States,San Jose,,,,1,,20161128,1480346785,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+6015818853654097789,Display,183478,United States,Mountain View,,,282,11,,20161027,1477597855,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+9284536390696380460,Organic Search,69502,United States,not available in demo dataset,,,279,7,,20170110,1484078839,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+6808677118647836830,Organic Search,301322,New Zealand,not available in demo dataset,,,1248,24,,20170406,1491532954,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+3353009107409466494,Organic Search,98140,United States,San Francisco,,,420,15,,20160820,1471721800,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+3787480412185006682,Referral,529163,United States,not available in demo dataset,,,746,11,,20170314,1489521839,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+3671654416054197475,Referral,285261,United States,not available in demo dataset,,,360,24,,20161004,1475609805,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+2822606451454884999,Referral,125083,United States,Sunnyvale,,,955,24,,20160923,1474690058,PAGE,,,30390000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+3951024151491212027,Organic Search,169188,United States,not available in demo dataset,,,1075,12,,20170416,1492381309,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+6200432860904233045,Referral,96406,United States,Chicago,185120000,1,1031,37,,20161202,1480715172,PAGE,,,30390000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+8347116207201200292,Organic Search,414592,Canada,not available in demo dataset,,,2533,14,,20170112,1484273489,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,0
+9097173062370236070,Referral,65956,United States,New York,,,323,12,,20170328,1490716088,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+510905885177705196,Direct,70783,China,not available in demo dataset,,,71,4,,20170608,1496987769,PAGE,,,33990000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+8727312099629002550,Referral,10862,United States,San Francisco,,,11,2,,20170504,1493937027,PAGE,,,27190000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+8216610377778696054,Referral,34846,United States,New York,,,170,13,,20160812,1471036785,PAGE,,,27190000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+316248798949752003,Social,1268235,Egypt,not available in demo dataset,,,1268,5,1,20170709,1499611347,PAGE,,,33990000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/,,,,,0
+1514725546549453755,Social,0,United States,San Francisco,,,845,10,,20170522,1495462676,PAGE,,,33990000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/,,,,,0
+3203276434996060371,Organic Search,1411716,United States,New York,,,1543,6,,20170628,1498664774,PAGE,,,33990000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+627858122618485897,Referral,1703088,United States,not available in demo dataset,60960000,1,4308,61,,20160926,1474899501,PAGE,,,27190000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+7513095927057435352,Organic Search,0,United States,Charlotte,,,,1,,20170501,1493635205,PAGE,,,33990000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+3296155930190521667,Organic Search,373215,United Kingdom,not available in demo dataset,,,700,22,,20170503,1493811408,PAGE,,,33990000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/,,,,,0
+9699402618386782462,Referral,129424,United States,not available in demo dataset,,,837,8,,20170608,1496989691,PAGE,,,33990000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/,,,,,0
+3999554333299831637,Referral,187761,United States,Chicago,,,368,17,,20160810,1470864187,PAGE,,,27190000,,GGOEGAAX0630,Android Baby Essentials Baby Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+9867583321060831647,Referral,96834,United States,Mountain View,,,376,11,,20160923,1474670120,PAGE,,,27190000,,GGOEGAAX0630,Android Baby Essentials Baby Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+8881570393137116360,Organic Search,40790,United States,not available in demo dataset,,,62,18,,20160808,1470672918,PAGE,,,33990000,,GGOEGAAX0630,Android Baby Essentials Baby Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+4602234869189849587,Direct,0,Bahamas,not available in demo dataset,,,176,4,,20160818,1471541414,PAGE,,,33990000,,GGOEGAAX0630,Android Baby Essentials Baby Set,Home/Apparel/Kid's/,,,,,0
+8397234703107696872,Organic Search,1366270,South Korea,Seoul,,,2175,145,,20160901,1472714252,PAGE,,,33990000,,GGOEGAAX0630,Android Baby Essentials Baby Set,Home/Apparel/Kid's/,,,,,0
+668443124478176687,Organic Search,80654,United Kingdom,not available in demo dataset,,,105,7,,20170603,1496479775,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/,,,,,0
+3443774061370791972,Referral,30407,United States,not available in demo dataset,,,2320,64,,20160814,1471227062,PAGE,,,30390000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/,,,,,0
+0140552222598856961,Organic Search,140360,Hong Kong,(not set),,,206,12,,20170426,1493255387,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/,,,,,0
+054085719356957335,Organic Search,902135,United States,not available in demo dataset,,,902,4,,20170621,1498060012,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/,,,,,0
+362606033071425031,Referral,232445,United States,San Jose,,,547,27,,20161026,1477540043,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+0958459803285340325,Referral,17348,United States,San Jose,,,87,7,,20160821,1471824379,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/,,,,,0
+8617743471212010127,Direct,224340,United States,not available in demo dataset,,,260,13,,20161117,1479414155,PAGE,,,30390000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+0292699959849357740,Direct,950095,United States,not available in demo dataset,389750000,1,1814,60,,20161205,1480990708,PAGE,,,30390000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+1812745086780271757,Referral,108142,Japan,Minato,,,287,21,,20161026,1477529929,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+0824839726118485274,Organic Search,1690811,United States,Salem,,,2131,18,,20160801,1470074867,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+5558854669555590734,Direct,0,United States,not available in demo dataset,,,,1,,20160805,1470400621,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+7593667838218558518,Referral,26903,United States,New York,,,410,19,,20161214,1481734611,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+7630913714679309140,Organic Search,370796,Taiwan,(not set),,,586,11,,20170606,1496747027,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+7102189477114352578,Direct,942851,United States,Goose Creek,,,1201,43,,20161128,1480367842,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+8121260573686585583,Organic Search,424496,United States,Boston,,,475,22,,20170412,1492055484,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+1410381400860054220,Direct,0,Taiwan,(not set),,,,1,,20170423,1493012804,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/,,,,,0
+1687101884070314817,Referral,1175188,United States,not available in demo dataset,,,1543,50,,20170128,1485617598,PAGE,,,30390000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+2909366319736782243,Organic Search,167917,Venezuela,Maracaibo,,,477,34,,20160822,1471901406,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+9320922789328934499,Referral,3285240,United States,Mountain View,295560000,1,4133,49,,20161211,1481514388,PAGE,,,30390000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+6466181974351520789,Organic Search,478433,Dominican Republic,not available in demo dataset,,,1100,21,,20161227,1482897153,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/,,,,,0
+2850531919717321973,Paid Search,45108,United States,not available in demo dataset,,,507,10,9,20170705,1499295821,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/,,,,,0
+9372618001980854712,Referral,349866,United States,not available in demo dataset,614460000,1,1582,48,,20170320,1490022687,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+2943746373898362304,Direct,703536,Japan,Osaka,,,1095,37,,20170529,1496117235,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+8017036388062220760,Referral,57819,Brazil,Sao Paulo,47380000,1,828,26,,20161121,1479735970,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/,,,,,0
+2687985938507870974,Organic Search,81546,Canada,not available in demo dataset,,,131,4,,20161116,1479346818,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/,,,,,0
+4658862490049820404,Referral,675562,United States,New York,,,1278,38,,20161025,1477436851,PAGE,,,30390000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+5892204436763301727,Direct,157626,United States,not available in demo dataset,121000000,1,373,19,,20170107,1483842478,PAGE,,,30390000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+9872208039398437808,Referral,14456,United States,Cambridge,,,160,8,,20161208,1481245239,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+6690484342700690203,Organic Search,17159,United States,not available in demo dataset,,,1564,9,,20161104,1478307410,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/,,,,,0
+9463778239854098636,Organic Search,81894,United States,not available in demo dataset,,,124,7,,20160808,1470721465,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+3897097305375760587,Referral,130337,United States,Mountain View,63550000,1,389,30,,20160904,1473008803,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+2033985722208734798,Referral,166797,Canada,Toronto,,,440,23,,20170611,1497238527,PAGE,,,30390000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+6307195731911361113,Referral,340311,United States,Sunnyvale,,,1099,16,,20170303,1488581064,PAGE,,,30390000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+4299887312428400637,Organic Search,99590,Canada,not available in demo dataset,,,100,4,1,20170706,1499347474,PAGE,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/,,,,,0
+5371373242361823490,Organic Search,45113,South Korea,Seoul,,,255,13,,20170110,1484119659,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+7383325601653712987,Direct,2099224,United States,not available in demo dataset,,,3271,148,,20160803,1470237064,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+4856969340837160179,Organic Search,451263,Germany,not available in demo dataset,,,460,23,,20170113,1484341996,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+9056455627173899052,Referral,309185,United States,not available in demo dataset,162560000,1,1791,90,,20160812,1471024045,PAGE,,,30390000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+8227839879394602738,Referral,52630,United States,Sunnyvale,,,1524,31,,20170313,1489429605,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+0637196188695629378,Referral,165864,United States,not available in demo dataset,,,196,13,,20170312,1489371044,PAGE,,,30390000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+6303618649454410924,Referral,209222,United States,not available in demo dataset,,,240,17,,20161128,1480354525,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+7553878835664652933,Referral,746601,United States,Mountain View,,,747,23,,20170503,1493843904,PAGE,,,30390000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+1449036448031090037,Paid Search,298572,United States,not available in demo dataset,,,569,27,,20170629,1498774943,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+3608475193341679870,Direct,209866,United States,not available in demo dataset,,,727,38,,20161202,1480670101,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+3724891595891341843,Referral,281270,United States,Sunnyvale,,,337,20,,20170309,1489087675,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+4645220833928900904,Social,1776974,Colombia,not available in demo dataset,,,3190,88,,20170130,1485827230,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+201226261435270434,Direct,320319,United States,New York,21190000,1,757,30,,20161219,1482170984,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+2481525817107932770,Referral,160792,United States,Mountain View,,,507,30,,20160810,1470867966,PAGE,,,30390000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+6692145007292838344,Social,62495,United States,not available in demo dataset,,,125,3,,20170113,1484351123,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+4154124445422020207,Direct,1470021,Hong Kong,(not set),,,1744,79,,20160920,1474356489,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+3648625501410184925,Organic Search,10290,United States,not available in demo dataset,,,107,7,,20161217,1482019707,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+145142524586806453,Referral,29192,United States,Pittsburgh,,,29,3,,20161004,1475605274,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+874970738392226510,Direct,49328,New Zealand,not available in demo dataset,,,177,11,,20160922,1474550903,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+7570893686550116164,Referral,85214,United States,not available in demo dataset,,,214,16,,20161201,1480599099,PAGE,,,30390000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+3029866194720776955,Organic Search,99033,United States,not available in demo dataset,,,541,21,,20161101,1478005935,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+0439251755107253843,Social,61004,Italy,not available in demo dataset,,,78,4,,20160925,1474792790,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+7192292501611345695,Organic Search,92886,Saudi Arabia,not available in demo dataset,,,443,15,,20170605,1496714956,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+1914759697085650684,Organic Search,1606845,United States,Sunnyvale,,,3382,41,,20161108,1478621529,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+165342796001100661,Referral,190859,United States,San Francisco,,,191,4,,20170612,1497296294,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,(not set),,,,,0
+2529194232306776007,Organic Search,79447,United States,Sunnyvale,,,249,17,,20160825,1472179596,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+3134604449301230166,Organic Search,69400,United States,Chicago,,,98,6,,20160826,1472228670,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+2933480226539953112,Organic Search,104989,Taiwan,not available in demo dataset,,,200,11,2,20170711,1499787002,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+7943628571775966334,Referral,166497,Canada,not available in demo dataset,,,617,10,,20170603,1496538757,PAGE,,,30390000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+9320922789328934499,Referral,4106632,United States,Mountain View,295560000,1,4133,49,,20161211,1481514388,PAGE,,,30390000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+1459427486997092521,Organic Search,123649,United States,New York,,,272,13,,20170509,1494355054,PAGE,,,30390000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+9422501587775170340,Organic Search,2577323,United States,not available in demo dataset,30880000,1,4528,25,,20170624,1498353417,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+5785544060457523955,Organic Search,5002482,United States,San Jose,,,5247,57,,20170328,1490741965,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+1650108067921868421,Organic Search,0,Argentina,Buenos Aires,,,208,2,,20161021,1477095822,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+3844754151975169434,Referral,4126,United States,Chicago,30180000,1,2180,29,,20160805,1470404754,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+9467255614813846705,Referral,25665,United States,Cambridge,,,62,4,,20161014,1476476550,PAGE,,,30390000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+056166463457562992,Organic Search,184877,United States,Sunnyvale,,,276,8,,20161006,1475812279,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/,,,,,0
+8233329749451736210,Referral,853329,Sweden,Stockholm,,,853,3,,20170125,1485334827,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+4134594295066637468,Organic Search,53974,United States,not available in demo dataset,,,752,45,,20160905,1473102947,PAGE,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+0496579780796570205,Referral,253472,United States,Chicago,,,272,14,,20160804,1470335077,PAGE,,,19190000,,GGOEGAAX0659,Google Toddler Raglan Shirt Blue Heather/Navy,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+5202053528951920691,Referral,61218,United States,San Diego,,,113,8,,20161018,1476835516,PAGE,,,19190000,,GGOEGAAX0659,Google Toddler Raglan Shirt Blue Heather/Navy,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+5274155792937866169,Referral,266180,United States,not available in demo dataset,,,510,27,,20170305,1488737487,PAGE,,,19190000,,GGOEGAAX0659,Google Toddler Raglan Shirt Blue Heather/Navy,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+0413173553166775381,Referral,277980,United States,San Jose,351350000,1,926,44,,20170206,1486439896,PAGE,,,19190000,,GGOEGAAX0659,Google Toddler Raglan Shirt Blue Heather/Navy,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+1561221900766291424,Referral,599455,United States,Ann Arbor,47380000,2,750,22,,20170511,1494516378,PAGE,,,19190000,,GGOEGAAX0659,Google Toddler Raglan Shirt Blue Heather/Navy,Home/Apparel/Kid's/,,,,,0
+0270576154521001348,Direct,467726,United States,not available in demo dataset,,,990,31,,20170504,1493881997,PAGE,,,19190000,,GGOEGAAX0659,Google Toddler Raglan Shirt Blue Heather/Navy,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+9909221117498354968,Referral,61106,United States,Los Angeles,,,158,13,,20161117,1479429961,PAGE,,,17590000,,GGOEGAAX0681,Google Youth Sports Tee Navy,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+3500440264779811239,Organic Search,1840647,United States,New York,233700000,2,2160,44,,20161013,1476372664,PAGE,,,17590000,,GGOEGAAX0681,Google Youth Sports Tee Navy,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+4041152918333549537,Organic Search,0,Canada,not available in demo dataset,,,7,2,,20170103,1483482588,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+6511542744372861676,Organic Search,883032,United States,San Francisco,,,1144,29,,20170423,1492995797,PAGE,,,35200000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+6931833927582821050,Referral,639614,United States,Mountain View,47560000,2,1311,39,,20170220,1487626683,PAGE,,,35200000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+0005224157940049074,Referral,59266,United States,Kirkland,,,111,6,,20170109,1484033922,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+4517452806012325,Organic Search,103652,United Kingdom,not available in demo dataset,,,710,15,,20170303,1488573204,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+9258849765758266635,Referral,303317,United States,San Bruno,,,347,15,,20161007,1475879142,PAGE,,,35200000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+7728791342122693177,Organic Search,27486,United States,Sunnyvale,,,223,8,,20161020,1476988729,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+0238840303052476168,Organic Search,0,Brazil,Sao Paulo,,,,1,,20160916,1474025783,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+9062506073836878169,Direct,95060,United States,Sunnyvale,,,166,7,,20161205,1481002267,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+330023032972542760,Referral,20277,United States,Sunnyvale,,,59,3,,20170630,1498858404,PAGE,,,35200000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+6944407004438928008,Organic Search,13818,United States,not available in demo dataset,185700000,1,637,25,,20161108,1478672315,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+073263666822991129,Organic Search,1278138,United States,not available in demo dataset,,,1764,26,,20160904,1473047326,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+361504553841631098,Direct,62800,United States,Sunnyvale,,,243,6,,20161115,1479248783,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+3524761419139036570,Organic Search,95173,United States,Charlottesville,,,260,11,,20170120,1484956996,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+4462611914742801159,Organic Search,84924,United States,not available in demo dataset,,,1151,31,,20161207,1481127998,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+6806713596828028201,Organic Search,16343,United States,Austin,,,185,6,,20170509,1494359631,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+6091498163535424271,Referral,744706,United States,New York,,,1144,58,,20161024,1477360200,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+1099415351957695706,Organic Search,129857,United States,Mountain View,,,188,11,,20170127,1485547301,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+8470862376028343342,Direct,0,United Kingdom,not available in demo dataset,,,,1,1,20170704,1499166006,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+4137305465781411175,Referral,515797,United States,not available in demo dataset,,,615,26,,20161126,1480222130,PAGE,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,0
+8338649339386272702,Direct,103505,United States,Los Angeles,,,994,26,,20161119,1479547212,PAGE,,,17590000,,GGOEGAAX0729,Google Women's Performance Hero Tee Gunmetal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,0
+9696541525438432501,Organic Search,52374,United States,Mountain View,,,143,11,,20161005,1475715807,PAGE,,,17590000,,GGOEGAAX0730,Google Men's Performance Tee Gunmetal,Home/Apparel/Men's/Men's-Performance Wear/,,,,,0
+448054678133064174,Referral,201423,United States,Mountain View,,,289,12,,20160825,1472186284,PAGE,,,44790000,,GGOEGAAX0732,YouTube Women's Fleece Hoodie Black,Home/Shop by Brand/,,,,,0
+0288629275029638155,Referral,62409,United States,Mountain View,,,62,5,,20160819,1471622437,PAGE,,,19190000,,GGOEGAAX0748,Google Toddler Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+6090327257816176277,Referral,57443,United States,Kirkland,,,57,4,,20160811,1470965053,PAGE,,,19190000,,GGOEGAAX0748,Google Toddler Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+4623397653493195031,Referral,324083,United States,not available in demo dataset,,,342,24,,20160813,1471097607,PAGE,,,19190000,,GGOEGAAX0750,Google Toddler Tee Fruit Games Strawberry,Home/Fruit Games/,,,,,0
+7395386353592134877,Referral,350745,United States,not available in demo dataset,,,1266,49,,20160814,1471213948,PAGE,,,19190000,,GGOEGAAX0750,Google Toddler Tee Fruit Games Strawberry,Home/Fruit Games/,,,,,0
+4296644363119485708,Direct,99461,Philippines,not available in demo dataset,,,173,5,,20160819,1471650559,PAGE,,,25990000,,GGOEGAAX0752,Google Youth Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+2722522511420755829,Direct,216840,United States,not available in demo dataset,,,217,11,,20160831,1472704774,PAGE,,,25990000,,GGOEGAAX0752,Google Youth Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+645239805828188093,Paid Search,13601,United States,not available in demo dataset,,,97,8,,20160818,1471535821,PAGE,,,25990000,,GGOEGAAX0752,Google Youth Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+3408559049705437319,Direct,121499,New Zealand,not available in demo dataset,,,121,6,,20160809,1470781539,PAGE,,,25990000,,GGOEGAAX0752,Google Youth Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+2852682660415082872,Direct,282988,Germany,not available in demo dataset,,,1855,18,,20160814,1471192303,PAGE,,,25990000,,GGOEGAAX0752,Google Youth Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+0237554491797022973,Referral,8895,United States,New York,,,281,9,,20160824,1472053779,PAGE,,,20790000,,GGOEGAAX0752,Google Youth Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+8197759556893637781,Direct,0,Russia,not available in demo dataset,,,106,2,,20160821,1471778891,PAGE,,,25990000,,GGOEGAAX0752,Google Youth Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+7627847213192322590,Direct,617240,United States,Salem,,,752,56,,20160819,1471621001,PAGE,,,25990000,,GGOEGAAX0752,Google Youth Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+2788885493678460958,Paid Search,1302697,United States,not available in demo dataset,,,1563,72,,20160822,1471859972,PAGE,,,25990000,,GGOEGAAX0752,Google Youth Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+5834951426752295598,Social,21414,Vietnam,not available in demo dataset,,,105,14,,20160816,1471415131,PAGE,,,25990000,,GGOEGAAX0752,Google Youth Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+2777913799761319591,Organic Search,29900,United States,Los Angeles,,,312,10,,20160822,1471887043,PAGE,,,25990000,,GGOEGAAX0753,Google Youth Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+8032183117638913437,Referral,10599,United States,Oakland,,,189,17,,20160821,1471836773,PAGE,,,20790000,,GGOEGAAX0753,Google Youth Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+4158800447376119100,Organic Search,287471,United States,not available in demo dataset,,,287,11,,20160821,1471841039,PAGE,,,25990000,,GGOEGAAX0753,Google Youth Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+0299339781486087500,Organic Search,305661,United States,not available in demo dataset,,,306,16,,20160827,1472321880,PAGE,,,25990000,,GGOEGAAX0753,Google Youth Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+0545929617514314149,Organic Search,16220,United States,not available in demo dataset,,,355,12,,20160827,1472285288,PAGE,,,25990000,,GGOEGAAX0753,Google Youth Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+981260529083320150,Organic Search,227496,United States,not available in demo dataset,,,227,12,,20160816,1471358124,PAGE,,,25990000,,GGOEGAAX0753,Google Youth Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+2969587064302085197,Organic Search,107307,United States,Santa Clara,,,426,16,,20160822,1471926865,PAGE,,,25990000,,GGOEGAAX0753,Google Youth Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+2127966788178181943,Organic Search,17550,United States,not available in demo dataset,,,69,6,,20160822,1471900829,PAGE,,,25990000,,GGOEGAAX0754,Google Youth Tee Fruit Games Banana,Home/Fruit Games/,,,,,0
+0967924922551859970,Organic Search,837966,United States,not available in demo dataset,,,887,17,,20160830,1472575884,PAGE,,,25990000,,GGOEGAAX0754,Google Youth Tee Fruit Games Banana,Home/Fruit Games/,,,,,0
+6114170406122443963,Referral,11396,United States,Sunnyvale,,,11,2,,20160812,1471035067,PAGE,,,25990000,,GGOEGAAX0754,Google Youth Tee Fruit Games Banana,Home/Fruit Games/,,,,,0
+2150546240220048423,Direct,175491,United Kingdom,not available in demo dataset,,,178,9,,20160815,1471253236,PAGE,,,25990000,,GGOEGAAX0754,Google Youth Tee Fruit Games Banana,Home/Fruit Games/,,,,,0
+5388433517814462750,Direct,458010,United States,San Francisco,,,600,32,,20160812,1470997085,PAGE,,,25990000,,GGOEGAAX0754,Google Youth Tee Fruit Games Banana,Home/Fruit Games/,,,,,0
+9777747604205033571,Organic Search,97309,United States,not available in demo dataset,,,189,15,,20160829,1472524482,PAGE,,,25990000,,GGOEGAAX0754,Google Youth Tee Fruit Games Banana,Home/Fruit Games/,,,,,0
+1377594572860926482,Direct,190451,United States,Ann Arbor,,,265,18,,20160830,1472581752,PAGE,,,25990000,,GGOEGAAX0754,Google Youth Tee Fruit Games Banana,Home/Fruit Games/,,,,,0
+0850984423636663989,Referral,1213654,United States,Houston,,,1217,13,,20160829,1472459763,PAGE,,,25990000,,GGOEGAAX0754,Google Youth Tee Fruit Games Banana,Home/Fruit Games/,,,,,0
+5320785398202934060,Referral,121908,United States,not available in demo dataset,,,145,10,,20160825,1472156790,PAGE,,,25990000,,GGOEGAAX0754,Google Youth Tee Fruit Games Banana,Home/Fruit Games/,,,,,0
+4705030998844057350,Referral,7902,United States,New York,,,150,7,,20160829,1472486091,PAGE,,,25990000,,GGOEGAAX0755,Google Youth Tee Fruit Games Strawberry,Home/Fruit Games/,,,,,0
+4331355870518552759,Display,298222,United States,not available in demo dataset,,,298,16,,20160821,1471822463,PAGE,,,25990000,,GGOEGAAX0755,Google Youth Tee Fruit Games Strawberry,Home/Fruit Games/,,,,,0
+1848370250577928458,Organic Search,225461,United States,Mountain View,,,239,10,,20160815,1471272965,PAGE,,,25990000,,GGOEGAAX0755,Google Youth Tee Fruit Games Strawberry,Home/Fruit Games/,,,,,0
+7207190765297827671,Referral,87295,Singapore,(not set),,,186,7,,20160818,1471586992,PAGE,,,25990000,,GGOEGAAX0755,Google Youth Tee Fruit Games Strawberry,Home/Fruit Games/,,,,,0
+5423819419856664608,Direct,105632,United States,not available in demo dataset,,,106,7,,20160822,1471914266,PAGE,,,25990000,,GGOEGAAX0755,Google Youth Tee Fruit Games Strawberry,Home/Fruit Games/,,,,,0
+4229694241096268399,Referral,45208,United States,Chicago,,,107,7,,20160811,1470931560,PAGE,,,20790000,,GGOEGAAX0755,Google Youth Tee Fruit Games Strawberry,Home/Fruit Games/,,,,,0
+2196562324599465415,Direct,953746,Hong Kong,(not set),,,963,34,,20160815,1471308543,PAGE,,,25990000,,GGOEGAAX0755,Google Youth Tee Fruit Games Strawberry,Home/Fruit Games/,,,,,0
+5359576794962458003,Referral,7389,United States,Mountain View,,,26,3,,20160809,1470765800,PAGE,,,25990000,,GGOEGAAX0755,Google Youth Tee Fruit Games Strawberry,Home/Fruit Games/,,,,,0
+8606365257523215440,Referral,431529,United States,Mountain View,,,1325,79,,20160817,1471471261,PAGE,,,20790000,,GGOEGAAX0755,Google Youth Tee Fruit Games Strawberry,Home/Fruit Games/,,,,,0
+3981799981187364739,Affiliates,672381,Hungary,Budapest,,,1629,22,,20160810,1470822430,PAGE,,,25990000,,GGOEGAAX0755,Google Youth Tee Fruit Games Strawberry,Home/Fruit Games/,,,,,0
+2206059495793306061,Direct,482091,United States,not available in demo dataset,,,1230,30,,20160818,1471572713,PAGE,,,25990000,,GGOEGAAX0755,Google Youth Tee Fruit Games Strawberry,Home/Fruit Games/,,,,,0
+2548965317600970170,Organic Search,1071033,Hong Kong,Hong Kong,,,1144,48,,20160824,1472053738,PAGE,,,25990000,,GGOEGAAX0756,Google Youth Tee Fruit Games Lemon,Home/Fruit Games/,,,,,0
+0714158778199816044,Organic Search,55971,United States,Atlanta,,,116,7,,20160809,1470779000,PAGE,,,25990000,,GGOEGAAX0756,Google Youth Tee Fruit Games Lemon,Home/Fruit Games/,,,,,0
+4229694241096268399,Referral,45208,United States,Chicago,,,107,7,,20160811,1470931560,PAGE,,,20790000,,GGOEGAAX0756,Google Youth Tee Fruit Games Lemon,Home/Fruit Games/,,,,,0
+1146019014137416037,Direct,0,United Kingdom,(not set),,,40,2,,20160831,1472638060,PAGE,,,25990000,,GGOEGAAX0756,Google Youth Tee Fruit Games Lemon,Home/Fruit Games/,,,,,0
+7781987324145448581,Organic Search,146589,United States,Santa Clara,,,316,24,,20160815,1471328010,PAGE,,,25990000,,GGOEGAAX0756,Google Youth Tee Fruit Games Lemon,Home/Fruit Games/,,,,,0
+4673461088087016817,Organic Search,254467,Belgium,not available in demo dataset,,,254,5,,20160811,1470944271,PAGE,,,25990000,,GGOEGAAX0756,Google Youth Tee Fruit Games Lemon,Home/Fruit Games/,,,,,0
+862335534284559939,Organic Search,47514,United States,San Jose,,,260,19,,20160821,1471845824,PAGE,,,25990000,,GGOEGAAX0756,Google Youth Tee Fruit Games Lemon,Home/Fruit Games/,,,,,0
+028772640672262718,Organic Search,24220,Canada,Toronto,,,236,9,,20160821,1471826666,PAGE,,,25990000,,GGOEGAAX0756,Google Youth Tee Fruit Games Lemon,Home/Fruit Games/,,,,,0
+7024887290534321436,Organic Search,4583,United States,not available in demo dataset,,,215,3,,20160817,1471460355,PAGE,,,25990000,,GGOEGAAX0756,Google Youth Tee Fruit Games Lemon,Home/Fruit Games/,,,,,0
+343933644371028593,Direct,113356,United States,New York,,,134,11,,20160818,1471560849,PAGE,,,25990000,,GGOEGAAX0756,Google Youth Tee Fruit Games Lemon,Home/Fruit Games/,,,,,0
+6220319574230512153,Social,21631,Netherlands,not available in demo dataset,,,39,3,,20160815,1471272765,PAGE,,,26990000,,GGOEGAAX0757,Google Adult Tee Fruit Games Dragonfruit,Home/Fruit Games/,,,,,0
+3160876115179576688,Referral,162352,Australia,Sydney,,,221,8,,20160828,1472377452,PAGE,,,21590000,,GGOEGAAX0757,Google Adult Tee Fruit Games Dragonfruit,Home/Fruit Games/,,,,,0
+7693430904622520313,Referral,1478676,United States,not available in demo dataset,,,1479,11,,20160809,1470763767,PAGE,,,21590000,,GGOEGAAX0757,Google Adult Tee Fruit Games Dragonfruit,Home/Fruit Games/,,,,,0
+8201563227785377471,Organic Search,0,United States,not available in demo dataset,,,364,4,,20160814,1471186888,PAGE,,,26990000,,GGOEGAAX0757,Google Adult Tee Fruit Games Dragonfruit,Home/Fruit Games/,,,,,0
+8257174953894639511,Direct,469336,Philippines,Manila,,,469,10,,20160826,1472260256,PAGE,,,26990000,,GGOEGAAX0757,Google Adult Tee Fruit Games Dragonfruit,Home/Fruit Games/,,,,,0
+6060428751402394163,Direct,534842,United States,not available in demo dataset,,,800,31,,20160817,1471484616,PAGE,,,26990000,,GGOEGAAX0757,Google Adult Tee Fruit Games Dragonfruit,Home/Fruit Games/,,,,,0
+8872934985451982041,Direct,70244,Japan,Minato,,,2391,22,,20160815,1471305933,PAGE,,,26990000,,GGOEGAAX0757,Google Adult Tee Fruit Games Dragonfruit,Home/Fruit Games/,,,,,0
+3091354751162566812,Organic Search,439361,United States,not available in demo dataset,,,439,2,,20160810,1470867184,PAGE,,,26990000,,GGOEGAAX0757,Google Adult Tee Fruit Games Dragonfruit,Home/Fruit Games/,,,,,0
+7406513042283627891,Referral,85251,United States,Seattle,,,146,9,,20160824,1472078298,PAGE,,,21590000,,GGOEGAAX0757,Google Adult Tee Fruit Games Dragonfruit,Home/Fruit Games/,,,,,0
+2278218561099060906,Organic Search,301304,United States,not available in demo dataset,,,349,19,,20160829,1472531429,PAGE,,,26990000,,GGOEGAAX0758,Google Adult Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+1943657966153805585,Social,1659932,United States,not available in demo dataset,,,3456,65,,20160814,1471165715,PAGE,,,26990000,,GGOEGAAX0758,Google Adult Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+1957458976293878100,Organic Search,8690,United States,not available in demo dataset,,,9,3,,20160831,1472675483,PAGE,,,26990000,,GGOEGAAX0758,Google Adult Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+6172229581081145758,Social,185529,United States,not available in demo dataset,,,259,13,,20160820,1471760009,PAGE,,,26990000,,GGOEGAAX0758,Google Adult Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+631879175064996828,Paid Search,222984,United States,not available in demo dataset,,,223,13,,20160814,1471191628,PAGE,,,26990000,,GGOEGAAX0758,Google Adult Tee Fruit Games Cherries,Home/Fruit Games/,,,,,0
+8851070114925131622,Organic Search,96283,Colombia,not available in demo dataset,,,96,8,,20160820,1471716357,PAGE,,,26990000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+448054678133064174,Referral,212944,United States,Mountain View,,,289,12,,20160825,1472186284,PAGE,,,21590000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+1374853357839821095,Organic Search,0,Netherlands,not available in demo dataset,,,,1,,20160827,1472321428,PAGE,,,26990000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+8953346870196234957,Referral,18811,United States,Mountain View,,,504,3,,20160816,1471373493,PAGE,,,26990000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+9718659751784810030,Direct,1060260,Mexico,not available in demo dataset,,,1228,11,,20160811,1470927346,PAGE,,,26990000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+6579160340765216471,Referral,85167,United States,San Francisco,,,99,9,,20160831,1472695811,PAGE,,,26990000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+9438800744695528530,Organic Search,120475,Sweden,Stockholm,,,1605,9,,20160823,1471951379,PAGE,,,26990000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+631228903642641162,Referral,799182,United States,New York,,,799,19,,20160813,1471105757,PAGE,,,21590000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+677384547677419528,Direct,80261,United States,Mountain View,,,251,10,,20160817,1471462588,PAGE,,,26990000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+6544834336137822477,Referral,358052,United States,not available in demo dataset,,,962,46,,20160816,1471413364,EVENT,,,21590000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+7905363759357911481,Direct,335681,Poland,Warsaw,,,351,12,,20160823,1471951869,PAGE,,,26990000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+2172639185663776970,Affiliates,193490,Russia,not available in demo dataset,,,235,16,,20160812,1471010920,PAGE,,,26990000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+5970151636074578985,Organic Search,217920,United States,not available in demo dataset,,,520,16,,20160815,1471303458,PAGE,,,26990000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+5055709476362865798,Direct,0,Cambodia,not available in demo dataset,,,51,3,,20160828,1472387948,PAGE,,,26990000,,GGOEGAAX0759,Google Adult Tee Fruit Games Pineapple,Home/Fruit Games/,,,,,0
+776884857977483664,Referral,114456,United States,Ann Arbor,,,143,7,,20160824,1472070530,PAGE,,,14390000,,GGOEACCQ017299,Android Lunch Kit,Home/Shop by Brand/,,,,,0
+5960127137243713650,Referral,8094,United States,Mountain View,,,8,2,,20161003,1475531434,PAGE,,,10390000,,GGOEADHB014799,Android Glass Water Bottle with Black Sleeve,Home/Drinkware/Water Bottles and Tumblers/,,,,,0
+8078785078021890695,Referral,128627,United States,Los Angeles,,,129,7,,20170109,1484008903,PAGE,,,10390000,,GGOEADWQ015699,Android Rise 14 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+8263347859869796858,Referral,151169,United States,Mountain View,,,356,20,,20161014,1476483109,PAGE,,,10390000,,GGOEADWQ015699,Android Rise 14 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+6726478899201625475,Referral,2776400,United States,Mountain View,145700000,5,2924,80,,20161211,1481472607,PAGE,,,10390000,,GGOEADWQ015699,Android Rise 14 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+690857538975657049,Organic Search,136835,United States,Atlanta,,,370,16,,20161004,1475609128,PAGE,,,10390000,,GGOEADWQ015699,Android Rise 14 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+4373534575888961818,Direct,109190,United States,Mountain View,100700000,2,2054,119,,20161205,1480966988,PAGE,,,10390000,,GGOEADWQ015699,Android Rise 14 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+1895049658489445177,Referral,26436,United States,Mountain View,,,37,4,,20160928,1475086530,PAGE,,,2390000,,GGOEAFKQ020599,Android Sticker Sheet Ultra Removable,Home/Accessories/Stickers/,,,,,0
+0488236137527169951,Referral,253448,United States,Mountain View,,,364,30,,20160813,1471138265,PAGE,,,2390000,,GGOEAFKQ020599,Android Sticker Sheet Ultra Removable,Home/Shop by Brand/,,,,,0
+1845876267761084200,Referral,623403,United Kingdom,London,,,955,31,,20161005,1475708301,PAGE,,,2390000,,GGOEAFKQ020599,Android Sticker Sheet Ultra Removable,Home/Accessories/Stickers/,,,,,0
+4308900525918096757,Referral,148043,United States,Mountain View,,,559,34,,20160929,1475174817,PAGE,,,17590000,,GGOEAHPJ074410,Android Twill Cap,Home/Apparel/Headgear/,,,,,0
+8702022874910109751,Referral,242980,United States,Seattle,124980000,1,919,42,,20160818,1471541219,PAGE,,,3190000,,GGOEAKDH019899,Windup Android,Home/Shop by Brand/,,,,,0
+502427268661784166,Direct,356083,United States,New York,110110000,1,1006,36,,20161005,1475681795,PAGE,,,3190000,,GGOEAKDH019899,Windup Android,Home/Accessories/Fun/,,,,,0
+1569829317089157879,Direct,462063,United States,not available in demo dataset,,,557,4,,20160926,1474917734,PAGE,,,7190000,,GGOEAOCH014199,Android Journal Book Set,Home/Office/Notebooks & Journals/,,,,,0
+7837315154532872615,Direct,323649,United States,Sunnyvale,,,490,18,80,20170705,1499289043,PAGE,,,10390000,,GGOEGACB023699,Yoga Block,Home/Accessories/Sports & Fitness/,,,,,0
+591143848670046440,Referral,146071,United States,Sunnyvale,,,190,8,,20170522,1495487864,PAGE,,,10390000,,GGOEGACB023699,Yoga Block,Home/Accessories/Sports & Fitness/,,,,,0
+6017990666485923461,Referral,311247,United States,Mountain View,,,360,10,,20170614,1497474836,PAGE,,,10390000,,GGOEGACB023699,Yoga Block,Home/Clearance Sale/,,,,,0
+0605623149335213634,Referral,278169,United States,not available in demo dataset,,,278,7,,20170331,1491012291,PAGE,,,10390000,,GGOEGACB023699,Yoga Block,Home/Accessories/Sports & Fitness/,,,,,0
+4359929883683645809,Referral,293445,Canada,New York,,,349,23,,20170209,1486699668,PAGE,,,27990000,,GGOEGBJB022599,Large Zipper Top Tote Bag,Home/Bags/Shopping and Totes/,,,,,0
+0873775475650313600,Referral,546619,United States,not available in demo dataset,,,547,25,,20161012,1476322561,PAGE,,,27990000,,GGOEGBJB022599,Large Zipper Top Tote Bag,Home/Bags/Shopping and Totes/,,,,,0
+3948620639294319625,Referral,66137,United States,not available in demo dataset,,,190,11,,20161005,1475692696,PAGE,,,27990000,,GGOEGBJB022599,Large Zipper Top Tote Bag,Home/Bags/Shopping and Totes/,,,,,0
+4451946482976810521,Direct,196397,United States,San Mateo,,,413,17,,20161204,1480882275,PAGE,,,27990000,,GGOEGBJB022599,Large Zipper Top Tote Bag,Home/Bags/Shopping and Totes/,,,,,0
+1612040247180251890,Referral,229229,United States,not available in demo dataset,,,532,28,,20170302,1488509286,PAGE,,,27990000,,GGOEGBJB022599,Large Zipper Top Tote Bag,Home/Bags/Shopping and Totes/,,,,,0
+5414184279895888475,Referral,245916,United States,not available in demo dataset,,,290,21,,20161002,1475456962,PAGE,,,27990000,,GGOEGBJB022599,Large Zipper Top Tote Bag,Home/Bags/Shopping and Totes/,,,,,0
+3662177742807173577,Referral,108945,United States,Mountain View,,,803,21,,20170607,1496873501,PAGE,,,27990000,,GGOEGBJB022599,Large Zipper Top Tote Bag,Home/Bags/Shopping and Totes/,,,,,0
+4475558287817613314,Referral,735973,United States,Santa Clara,,,1976,39,,20170102,1483409086,PAGE,,,27990000,,GGOEGBJB022599,Large Zipper Top Tote Bag,Home/Bags/Shopping and Totes/,,,,,0
+7545121588966245443,Referral,73523,Canada,Toronto,,,1171,30,,20170301,1488394980,PAGE,,,12790000,,GGOEGBJL013999,Google Canvas Tote Natural/Navy,Home/Bags/Shopping and Totes/,,,,,0
+0973653210693546325,Referral,326152,United States,New York,407510000,1,900,29,90,20170724,1500906901,PAGE,,,12790000,,GGOEGBJL013999,Google Canvas Tote Natural/Navy,Home/Bags/Shopping and Totes/,,,,,0
+3224914838305482148,Referral,360476,United States,San Francisco,,,1276,24,,20161201,1480628756,PAGE,,,12790000,,GGOEGBJL013999,Google Canvas Tote Natural/Navy,Home/Bags/Shopping and Totes/,,,,,0
+0107076854070556530,Referral,955294,United States,Mountain View,,,2777,82,,20161210,1481414996,PAGE,,,2800000,,GGOEGBJR018199,Reusable Shopping Bag,Home/Bags/Shopping and Totes/,,,,,0
+8267726977794767808,Referral,774459,United States,New York,,,774,24,,20160930,1475251338,PAGE,,,63990000,,GGOEGBMC056599,Waterproof Gear Bag,Home/Bags/More Bags/,,,,,0
+1306550842237087256,Affiliates,49372,Denmark,not available in demo dataset,,,102,7,,20170522,1495458897,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+7590469767423166460,Organic Search,158040,Cyprus,not available in demo dataset,,,654,25,11,20170720,1500579592,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+0661998775550023612,Direct,538801,Guatemala,not available in demo dataset,,,759,32,,20170220,1487636634,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+1815636420490750290,Direct,68799,United States,San Francisco,,,110,6,1,20170801,1501572671,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+6116113893065934343,Organic Search,69653,Philippines,Taguig,,,136,9,1,20170724,1500921276,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+3133737594655532095,Direct,412005,United States,New York,95940000,1,668,42,,20170310,1489209327,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+0871739203921536746,Referral,158027,Netherlands,not available in demo dataset,,,256,4,,20170408,1491661473,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+476484814977767154,Referral,1138535,Bahrain,not available in demo dataset,,,1504,38,,20170410,1491808226,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+4238089200646820329,Referral,294614,United States,Mountain View,,,3551,55,,20170516,1494978599,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+8604800356436686293,Organic Search,999225,United States,not available in demo dataset,,,2463,86,,20170113,1484352335,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+3297078067397304671,Referral,47881,United States,Mountain View,,,48,2,,20170419,1492637993,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+1955995741492888053,Organic Search,229327,United States,not available in demo dataset,,,546,5,,20170531,1496291717,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+0424852046013712109,Referral,447385,United States,San Francisco,,,666,11,57,20170727,1501174625,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+8831131175816743143,Direct,800091,United States,not available in demo dataset,,,1390,23,52,20170718,1500434601,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+9330104805866476800,Organic Search,369748,United States,San Jose,,,574,17,,20170313,1489459282,PAGE,,,49990000,,GGOEGBPB081999,UpCycled Bike Saddle Bag,Home/Accessories/Sports & Fitness/,,,,,0
+1220174290630425237,Referral,353923,United States,Chicago,,,642,49,,20170124,1485284950,PAGE,,,47990000,,GGOEGBPB082099,UpCycled Handlebar Bag,Home/Accessories/Sports & Fitness/,,,,,0
+6806439269132685120,Referral,334867,United States,not available in demo dataset,,,425,13,35,20170712,1499870379,PAGE,,,47990000,,GGOEGBPB082099,UpCycled Handlebar Bag,Home/Accessories/Sports & Fitness/,,,,,0
+9363408672990705528,Referral,1474240,United States,not available in demo dataset,,,2054,14,,20170404,1491333955,PAGE,,,47990000,,GGOEGBPB082099,UpCycled Handlebar Bag,Home/Accessories/Sports & Fitness/,,,,,0
+8678334264611498451,Referral,92252,United States,New York,,,965,58,,20160921,1474485091,PAGE,,,5590000,,GGOEGCBB074199,Google Car Clip Phone Holder,Home/Accessories/Housewares/,,,,,0
+7999024439305263613,Referral,55615,United States,Sunnyvale,,,86,9,,20161003,1475534354,PAGE,,,5590000,,GGOEGCBB074199,Google Car Clip Phone Holder,Home/Accessories/Housewares/,,,,,0
+360273045110489293,Organic Search,144397,United States,not available in demo dataset,,,368,23,,20160927,1475031899,PAGE,,,4500000,,GGOEGCGB022199,Fashion Sunglasses & Pouch,Home/Accessories/Fun/,,,,,0
+6554974910703931282,Organic Search,216415,United States,not available in demo dataset,,,319,24,,20161002,1475462118,PAGE,,,4500000,,GGOEGCGB022199,Fashion Sunglasses & Pouch,Home/Accessories/Fun/,,,,,0
+2643147405722975324,Referral,506530,Japan,not available in demo dataset,,,681,24,,20160928,1475087709,PAGE,,,4500000,,GGOEGCGB022199,Fashion Sunglasses & Pouch,Home/Accessories/Fun/,,,,,0
+046138953491701271,Organic Search,3297850,United States,not available in demo dataset,,,3461,49,,20161003,1475491945,PAGE,,,4500000,,GGOEGCGB022199,Fashion Sunglasses & Pouch,Home/Accessories/Fun/,,,,,0
+3399448385406010923,Paid Search,189456,United States,not available in demo dataset,,,378,17,,20160925,1474867591,PAGE,,,4500000,,GGOEGCGB022199,Fashion Sunglasses & Pouch,Home/Accessories/Fun/,,,,,0
+5344256298249026757,Organic Search,444323,Vietnam,Ho Chi Minh City,,,578,29,,20160923,1474692287,PAGE,,,4500000,,GGOEGCGB022199,Fashion Sunglasses & Pouch,Home/Accessories/Fun/,,,,,0
+8166898430517779079,Organic Search,0,United States,not available in demo dataset,62890000,1,1724,40,,20161002,1475459139,PAGE,,,4500000,,GGOEGCGB022199,Fashion Sunglasses & Pouch,Home/Accessories/Fun/,,,,,0
+5359466595871208144,Paid Search,12990,United States,not available in demo dataset,,,362,13,,20160922,1474575409,PAGE,,,4500000,,GGOEGCGB022199,Fashion Sunglasses & Pouch,Home/Accessories/Fun/,,,,,0
+0203286735394897765,Social,175299,Australia,not available in demo dataset,,,337,7,,20160928,1475105721,PAGE,,,4500000,,GGOEGCGB022199,Fashion Sunglasses & Pouch,Home/Accessories/Fun/,,,,,0
+8698795898814095008,Organic Search,505659,United States,not available in demo dataset,82470000,1,1422,33,,20160919,1474310831,PAGE,,,4500000,,GGOEGCGB022199,Fashion Sunglasses & Pouch,Home/Accessories/Fun/,,,,,0
+326346798169358885,Referral,107198,United States,Nashville,,,120,11,,20161003,1475520130,PAGE,,,1590000,,GGOEGCKQ013199,1 oz Hand Sanitizer,Home/Accessories/Fun/,,,,,0
+8144221263768378141,Organic Search,911773,United States,not available in demo dataset,,,1517,57,,20160926,1474958076,PAGE,,,1590000,,GGOEGCKQ013199,1 oz Hand Sanitizer,Home/Accessories/Fun/,,,,,0
+5257782269954831845,Referral,137369,United States,Kirkland,,,137,9,,20160930,1475263257,PAGE,,,17590000,,GGOEGCMB020932,Suitcase Organizer Cubes,Home/Bags/More Bags/,,,,,0
+2526542957776125951,Referral,177072,United States,New York,101600000,1,257,21,,20160922,1474571886,PAGE,,,27190000,,GGOEGDHB071999,Google 40 oz Insulated Monster Bottle,Home/Drinkware/Water Bottles and Tumblers/,,,,,0
+7618143769001858160,Organic Search,119804,United States,not available in demo dataset,,,297,15,,20160927,1475000977,PAGE,,,33990000,,GGOEGDHB071999,Google 40 oz Insulated Monster Bottle,Home/Drinkware/Water Bottles and Tumblers/,,,,,0
+7463973857157760999,Organic Search,358193,United States,not available in demo dataset,,,358,10,,20160925,1474841367,PAGE,,,33990000,,GGOEGDHB071999,Google 40 oz Insulated Monster Bottle,Home/Drinkware/Water Bottles and Tumblers/,,,,,0
+1217438901091327782,Referral,158824,United States,Mountain View,,,553,27,,20161003,1475538035,PAGE,,,8790000,,GGOEGDHC015299,23 oz Wide Mouth Sport Bottle,Home/Drinkware/Water Bottles and Tumblers/,,,,,0
+0207030013698214187,Referral,339123,United States,New York,,,1452,23,,20160929,1475176091,PAGE,,,8790000,,GGOEGDHC015299,23 oz Wide Mouth Sport Bottle,Home/Drinkware/Water Bottles and Tumblers/,,,,,0
+9738687776376381043,Referral,388481,United States,not available in demo dataset,259140000,1,1970,62,,20161022,1477158145,PAGE,,,7190000,,GGOEGDWC020199,Engraved Ceramic Google Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+38807504266512636,Referral,315314,United States,Mountain View,,,345,20,,20161207,1481168131,PAGE,,,7190000,,GGOEGDWC020199,Engraved Ceramic Google Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+6704694428785862021,Organic Search,759154,United States,Palo Alto,,,946,19,,20161230,1483163318,PAGE,,,7190000,,GGOEGDWC020199,Engraved Ceramic Google Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+7483600664917507409,Referral,641580,United States,Mountain View,,,1046,58,,20161120,1479695213,PAGE,,,7190000,,GGOEGDWC020199,Engraved Ceramic Google Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+1510593734540159167,Direct,772386,United States,Seattle,151000000,1,1728,29,,20161129,1480480472,PAGE,,,7190000,,GGOEGDWC020199,Engraved Ceramic Google Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+3262907676151922428,Referral,400778,United States,Seattle,,,411,28,,20161010,1476157985,PAGE,,,7190000,,GGOEGDWC020199,Engraved Ceramic Google Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+7542872879801361567,Referral,724272,United States,New York,,,895,32,,20161004,1475605907,PAGE,,,7190000,,GGOEGDWC020199,Engraved Ceramic Google Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+7817919930484297166,Referral,286781,United States,Mountain View,,,287,6,,20161215,1481867221,PAGE,,,7190000,,GGOEGDWC020199,Engraved Ceramic Google Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+6823888269069303361,Direct,374808,United States,Sunnyvale,,,507,15,,20170215,1487229304,PAGE,,,10390000,,GGOEGDWR015799,Red Shine 15 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+4652551496647463770,Referral,4357208,United States,not available in demo dataset,,,4434,89,,20161008,1475948735,PAGE,,,10390000,,GGOEGDWR015799,Red Shine 15 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+0107076854070556530,Referral,1020650,United States,Mountain View,,,2777,82,,20161210,1481414996,PAGE,,,10390000,,GGOEGDWR015799,Red Shine 15 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+5657371295719018100,Referral,191518,United States,Mountain View,,,603,10,,20161003,1475538832,PAGE,,,10390000,,GGOEGDWR015799,Red Shine 15 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+7947220012328380438,Direct,132023,United States,not available in demo dataset,,,308,13,,20161102,1478109646,PAGE,,,10390000,,GGOEGDWR015799,Red Shine 15 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+3458767218381575912,Referral,178590,United States,not available in demo dataset,,,241,14,,20160921,1474525908,PAGE,,,10390000,,GGOEGDWR015799,Red Shine 15 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+5713901657462723419,Referral,317507,United States,Mountain View,,,1388,38,,20161205,1480980039,PAGE,,,10390000,,GGOEGDWR015799,Red Shine 15 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,0
+5484512703609198064,Organic Search,61376,United States,not available in demo dataset,,,66,9,,20161002,1475449099,PAGE,,,97990000,,GGOEGEFQ071399,Google Phone Sanitizer,Home/Electronics/Electronics Accessories/,,,,,0
+8852726905394154398,Organic Search,127902,France,Paris,,,274,17,,20161006,1475752648,PAGE,,,97990000,,GGOEGEFQ071399,Google Phone Sanitizer,Home/Electronics/Electronics Accessories/,,,,,0
+6686482903650022119,Referral,100781,United States,Kirkland,,,377,29,,20160928,1475099300,PAGE,,,97990000,,GGOEGEFQ071399,Google Phone Sanitizer,Home/Electronics/Electronics Accessories/,,,,,0
+9427950462546918246,Referral,51200,United States,Mountain View,,,331,12,,20161004,1475607459,PAGE,,,97990000,,GGOEGEFQ071399,Google Phone Sanitizer,Home/Electronics/Electronics Accessories/,,,,,0
+1067800934251666476,Referral,51665,United States,not available in demo dataset,,,52,2,,20160924,1474769494,PAGE,,,97990000,,GGOEGEFQ071399,Google Phone Sanitizer,Home/Electronics/Electronics Accessories/,,,,,0
+6805408291748941516,Organic Search,68260,Czechia,not available in demo dataset,,,226,16,,20160928,1475076501,PAGE,,,73990000,,GGOEGEHB071499,Google PowerKit,Home/Electronics/Power/,,,,,0
+0343138238061206334,Organic Search,433002,United States,not available in demo dataset,,,701,28,,20160916,1474060310,PAGE,,,18390000,,GGOEGEHQ072499,Google 2200mAh Micro Charger,Home/Electronics/Power/,,,,,0
+2988408671339882201,Organic Search,60290,United States,Palo Alto,,,90,6,,20161005,1475691569,PAGE,,,37990000,,GGOEGEHQ072599,Google 4400mAh Power Bank,Home/Electronics/Power/,,,,,0
+4260059203069180269,Referral,60946,United States,Mountain View,,,61,6,,20161005,1475713177,PAGE,,,30390000,,GGOEGEHQ072599,Google 4400mAh Power Bank,Home/Electronics/Power/,,,,,0
+062337808774510362,Display,196876,United States,New York,,,1464,42,,20161004,1475603000,PAGE,,,18390000,,GGOEGESB015099,Basecamp Explorer Powerbank Flashlight,Home/Accessories/,,,,,0
+239169120122428785,Referral,654964,United States,New York,90110000,1,1919,50,79,20170731,1501545926,PAGE,,,18390000,,GGOEGESB015099,Basecamp Explorer Powerbank Flashlight,Home/Electronics/Flashlights/,,,,,0
+4367321725481218719,Direct,2292537,United States,Austin,121000000,1,4592,124,,20161107,1478562239,PAGE,,,18390000,,GGOEGESB015099,Basecamp Explorer Powerbank Flashlight,Home/Electronics/Flashlights/,,,,,0
+435373542373805498,Referral,196046,United States,Washington,234150000,1,2010,56,,20161201,1480609834,PAGE,,,18390000,,GGOEGESB015099,Basecamp Explorer Powerbank Flashlight,Home/Electronics/Flashlights/,,,,,0
+7057577096506140644,Direct,291049,United States,Mountain View,,,291,9,2,20170711,1499817424,PAGE,,,47990000,,GGOEGESB015199,Google Flashlight,Home/Electronics/Flashlights/,,,,,0
+037220895437756047,Referral,1542096,United States,Chicago,,,1661,12,,20170204,1486256130,PAGE,,,47990000,,GGOEGESB015199,Google Flashlight,Home/Electronics/Flashlights/,,,,,0
+031607904142435840,Referral,382008,United States,Mountain View,,,452,19,,20160927,1475005716,PAGE,,,47990000,,GGOEGESB015199,Google Flashlight,Home/Accessories/,,,,,0
+0509291892849260639,Referral,346078,United States,Kirkland,,,442,25,,20160928,1475126406,PAGE,,,47990000,,GGOEGESB015199,Google Flashlight,Home/Accessories/,,,,,0
+5800706836344681205,Direct,405735,United States,Palo Alto,156000000,1,1075,31,,20170127,1485554821,PAGE,,,47990000,,GGOEGESB015199,Google Flashlight,Home/Electronics/Flashlights/,,,,,0
+6402838447973025521,Direct,503359,United States,Kirkland,153950000,1,883,100,,20161121,1479768839,PAGE,,,47990000,,GGOEGESB015199,Google Flashlight,Home/Electronics/Flashlights/,,,,,0
+924091465796731445,Referral,2663446,United States,New York,187160000,1,3483,56,,20170607,1496881834,PAGE,,,10390000,,GGOEGESQ016799,Plastic Sliding Flashlight,Home/Electronics/Flashlights/,,,,,0
+8403659038374693323,Direct,1963062,United States,Palo Alto,,,2255,28,,20161115,1479253507,PAGE,,,10390000,,GGOEGESQ016799,Plastic Sliding Flashlight,Home/Electronics/Flashlights/,,,,,0
+3132125543652239858,Referral,881027,United States,not available in demo dataset,,,1081,45,,20160919,1474344117,PAGE,,,44790000,,GGOEGETB023799,Google Power Bank,Home/Electronics/Power/,,,,,0
+217055904899285228,Referral,227146,United States,Sunnyvale,,,378,17,,20161004,1475644241,PAGE,,,44790000,,GGOEGETB023799,Google Power Bank,Home/Electronics/Power/,,,,,0
+8743126510130272711,Organic Search,595915,United States,not available in demo dataset,,,1096,10,35,20170714,1500066269,PAGE,,,44790000,,GGOEGETB023799,Google Power Bank,Home/Clearance Sale/,,,,,0
+6002383716453782350,Referral,114097,United States,San Francisco,23380000,1,1071,66,,20160921,1474502400,PAGE,,,31990000,,GGOEGEVA022399,Micro Wireless Earbud,Home/Electronics/Audio/,,,,,0
+7911013490176114623,Organic Search,863357,United States,not available in demo dataset,,,1190,44,,20160927,1474986227,PAGE,,,49990000,,GGOEGEVB070499,Google Bluetooth Headphones,Home/Electronics/Audio/,,,,,0
+5555856604613504568,Referral,951841,United States,not available in demo dataset,,,1091,28,,20160922,1474599896,PAGE,,,49990000,,GGOEGEVB070499,Google Bluetooth Headphones,Home/Electronics/Audio/,,,,,0
+0710360620506027245,Direct,188033,Australia,Melbourne,,,608,17,,20160923,1474636053,PAGE,,,49990000,,GGOEGEVB070499,Google Bluetooth Headphones,Home/Electronics/Audio/,,,,,0
+9746143258678651957,Organic Search,148973,United States,not available in demo dataset,,,2356,34,,20160916,1474083440,PAGE,,,49990000,,GGOEGEVB070499,Google Bluetooth Headphones,Home/Electronics/Audio/,,,,,0
+8751358324988908019,Organic Search,283794,United States,New York,,,512,26,,20160929,1475206444,PAGE,,,49990000,,GGOEGEVB070499,Google Bluetooth Headphones,Home/Electronics/Audio/,,,,,0
+4872213382220045279,Direct,128525,Japan,Minato,,,187,13,,20161006,1475822086,PAGE,,,145990000,,GGOEGEVB070599,Google G Noise-reducing Bluetooth Headphones,Home/Electronics/Audio/,,,,,0
+9710647501690703831,Organic Search,355345,United States,not available in demo dataset,,,531,40,,20161006,1475798067,PAGE,,,145990000,,GGOEGEVB070599,Google G Noise-reducing Bluetooth Headphones,Home/Electronics/Audio/,,,,,0
+2243711664609298746,Referral,133816,United States,Sunnyvale,,,212,14,,20160920,1474396135,PAGE,,,145990000,,GGOEGEVB070599,Google G Noise-reducing Bluetooth Headphones,Home/Electronics/Audio/,,,,,0
+2855633769324434812,Organic Search,271887,United States,not available in demo dataset,,,496,21,,20161004,1475632260,PAGE,,,145990000,,GGOEGEVB070599,Google G Noise-reducing Bluetooth Headphones,Home/Electronics/Audio/,,,,,0
+1454284179609562722,Referral,19426,United States,San Jose,,,19,2,,20161003,1475559148,PAGE,,,145990000,,GGOEGEVB070599,Google G Noise-reducing Bluetooth Headphones,Home/Electronics/Audio/,,,,,0
+3968636395556689085,Direct,3532,United States,Mountain View,,,197,5,,20160928,1475084165,PAGE,,,145990000,,GGOEGEVB070599,Google G Noise-reducing Bluetooth Headphones,Home/Electronics/Audio/,,,,,0
+9913973588935503654,Organic Search,785547,United States,not available in demo dataset,,,853,31,,20161006,1475804303,PAGE,,,76990000,,GGOEGEVB070699,Google Bluetooth Speaker-Power Bank,Home/Electronics/Power/,,,,,0
+8627561348122631479,Referral,3019621,United States,not available in demo dataset,90900000,1,4385,71,,20161005,1475702407,PAGE,,,61590000,,GGOEGEVB070699,Google Bluetooth Speaker-Power Bank,Home/Electronics/Audio/,,,,,0
+3112990088124452872,Referral,323402,United States,not available in demo dataset,,,1469,69,,20160922,1474577365,PAGE,,,61590000,,GGOEGEVB070699,Google Bluetooth Speaker-Power Bank,Home/Electronics/Audio/,,,,,0
+6322559317330049876,Referral,896346,United States,Sunnyvale,,,1109,37,,20161005,1475732982,PAGE,,,76990000,,GGOEGEVB070699,Google Bluetooth Speaker-Power Bank,Home/Electronics/Power/,,,,,0
+3686434063369381203,Organic Search,48960,United States,not available in demo dataset,,,81,6,,20160920,1474393156,PAGE,,,76990000,,GGOEGEVB070699,Google Bluetooth Speaker-Power Bank,Home/Electronics/Power/,,,,,0
+8076065383997023510,Referral,60376,United States,Mountain View,,,60,4,,20160930,1475262132,PAGE,,,61590000,,GGOEGEVB070699,Google Bluetooth Speaker-Power Bank,Home/Electronics/Audio/,,,,,0
+848445516515807974,Referral,34037,United States,Mountain View,,,136,12,,20160918,1474255285,PAGE,,,76990000,,GGOEGEVB070699,Google Bluetooth Speaker-Power Bank,Home/Electronics/Audio/,,,,,0
+9582381844054384942,Organic Search,86346,Italy,Milan,,,209,14,,20161004,1475606862,PAGE,,,104990000,,GGOEGEVB071299,Digital Lightshow Smart Speaker and Notification Center,Home/Electronics/Audio/,,,,,0
+5956947667076271720,Direct,136337,Japan,not available in demo dataset,,,1110,11,,20160929,1475134837,PAGE,,,104990000,,GGOEGEVB071299,Digital Lightshow Smart Speaker and Notification Center,Home/Electronics/Audio/,,,,,0
+2446685875964479851,Organic Search,108493,United States,New York,,,108,7,,20161005,1475712902,PAGE,,,104990000,,GGOEGEVB071299,Digital Lightshow Smart Speaker and Notification Center,Home/Electronics/Audio/,,,,,0
+9772704196604275644,Organic Search,33711,Canada,Montreal,,,73,9,,20160927,1475015170,PAGE,,,27990000,,GGOEGEVB071799,Google Pocket Bluetooth Speaker,Home/Electronics/Audio/,,,,,0
+879972857411401591,Organic Search,57566,Netherlands,not available in demo dataset,,,58,3,,20160919,1474310700,PAGE,,,27990000,,GGOEGEVB071799,Google Pocket Bluetooth Speaker,Home/Electronics/Audio/,,,,,0
+0680551580601647115,Organic Search,272990,Indonesia,Jakarta,,,462,14,,20160925,1474856541,PAGE,,,27990000,,GGOEGEVB071799,Google Pocket Bluetooth Speaker,Home/Electronics/Audio/,,,,,0
+7624224602863376036,Referral,23317,United States,Mountain View,,,59,6,,20160920,1474415455,PAGE,,,27990000,,GGOEGEVB071799,Google Pocket Bluetooth Speaker,Home/Electronics/Audio/,,,,,0
+6250710180181855207,Referral,94227,United States,Mountain View,,,110,9,,20160923,1474676218,PAGE,,,63990000,,GGOEGEVJ023999,Compact Bluetooth Speaker,Home/Electronics/Audio/,,,,,0
+580376366491476482,Referral,112921,United States,San Francisco,,,125,8,,20160930,1475269024,PAGE,,,2800000,,GGOEGFAQ016699,Bottle Opener Clip,Home/Accessories/Housewares/,,,,,0
+4465770359538839729,Referral,803325,United States,not available in demo dataset,,,1515,47,,20160930,1475250725,PAGE,,,1200000,,GGOEGFKA022299,Keyboard DOT Sticker,Home/Accessories/,,,,,0
+4739086583803981425,Referral,959364,United States,Los Angeles,,,1003,16,,20161231,1483237065,PAGE,,,1590000,,GGOEGFSR022099,Google Kick Ball,Home/Accessories/Sports & Fitness/,,,,,0
+9774143177120871178,Direct,145699,United States,not available in demo dataset,,,164,17,,20161004,1475640679,PAGE,,,1590000,,GGOEGFSR022099,Google Kick Ball,Home/Accessories/Sports & Fitness/,,,,,0
+2867303021798543370,Referral,810096,United States,Mountain View,,,1576,36,,20170520,1495327315,PAGE,,,1590000,,GGOEGFSR022099,Google Kick Ball,Home/Accessories/Sports & Fitness/,,,,,0
+2877675549303925196,Organic Search,336336,United States,Mountain View,126000000,1,1374,27,,20161110,1478813661,PAGE,,,1590000,,GGOEGFSR022099,Google Kick Ball,Home/Accessories/Sports & Fitness/,,,,,0
+5095728973757590395,Direct,174310,United States,Austin,,,653,19,,20170425,1493141399,PAGE,,,1590000,,GGOEGFSR022099,Google Kick Ball,Home/Accessories/Sports & Fitness/,,,,,0
+8458936858185830911,Referral,166485,United States,Santa Clara,,,313,26,,20170208,1486624797,PAGE,,,1590000,,GGOEGFSR022099,Google Kick Ball,Home/Accessories/Sports & Fitness/,,,,,0
+6664236687306813132,Organic Search,892686,United States,not available in demo dataset,,,922,63,,20170331,1490995093,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+3867783260695239660,Social,191988,United States,not available in demo dataset,,,812,11,,20170402,1491150121,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+2088947713520882786,Organic Search,298729,Morocco,not available in demo dataset,,,1108,36,,20161028,1477692206,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+9836212795806749396,Direct,102493,Brazil,not available in demo dataset,,,145,9,,20170325,1490499007,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+2952963541042888449,Organic Search,40120,United States,Chicago,,,155,6,,20170613,1497396518,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+016909090316136621,Direct,97483,Canada,not available in demo dataset,,,400,117,53,20170719,1500507802,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+6060428751402394163,Direct,178675,United States,not available in demo dataset,,,800,31,,20160817,1471484616,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+0439026448083923955,Organic Search,48526,India,Mumbai,,,78,5,,20170511,1494568677,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+6056213691267084633,Organic Search,110343,India,not available in demo dataset,,,110,3,,20161219,1482153083,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+7850655357934388204,Organic Search,615801,United States,not available in demo dataset,,,1021,48,,20160802,1470166629,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+1295521698300236570,Direct,101209,United States,Chicago,,,101,2,,20161026,1477517405,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+3511500500745171977,Organic Search,0,Canada,not available in demo dataset,,,10,2,1,20170720,1500582411,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+6047778181652087472,Social,1218557,Nigeria,not available in demo dataset,,,1253,5,,20161014,1476440377,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+3602856513077200386,Organic Search,1010632,United States,San Francisco,,,1095,18,,20170320,1490027883,PAGE,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,0
+5028848934365025084,Social,104145,United States,not available in demo dataset,,,143,4,,20170101,1483310974,PAGE,,,25000000,,GGOEGGCX056299,Gift Card - $25.00,Home/Gift Cards/,,,,,0
+1524317983135931851,Affiliates,2464539,United States,not available in demo dataset,,,6799,129,,20170424,1493023268,PAGE,,,25000000,,GGOEGGCX056299,Gift Card - $25.00,Home/Gift Cards/,,,,,0
+937161062154940659,Social,83126,India,Chennai,,,107,7,,20170604,1496636319,PAGE,,,25000000,,GGOEGGCX056299,Gift Card - $25.00,Home/Gift Cards/,,,,,0
+900437015726950375,Referral,1537894,United States,Mountain View,,,1538,37,,20170611,1497200995,PAGE,,,25000000,,GGOEGGCX056299,Gift Card - $25.00,Home/Gift Cards/,,,,,0
+5080333355018603929,Social,159047,United States,Boardman,,,159,2,,20161018,1476804600,PAGE,,,25000000,,GGOEGGCX056299,Gift Card - $25.00,Home/Gift Cards/,,,,,0
+0085218128135224765,Affiliates,1862604,Russia,not available in demo dataset,,,2167,14,,20170205,1486314038,EVENT,,,25000000,,GGOEGGCX056299,Gift Card - $25.00,Home/Gift Cards/,,,,,0
+7839918979707669041,Organic Search,140176,India,Mumbai,,,310,4,,20161014,1476479210,PAGE,,,25000000,,GGOEGGCX056299,Gift Card - $25.00,Home/Gift Cards/,,,,,0
+4916566439741080860,Organic Search,1197868,India,Mumbai,,,2314,69,,20170202,1486053649,PAGE,,,25000000,,GGOEGGCX056299,Gift Card - $25.00,Home/Gift Cards/,,,,,0
+480430599655398459,Social,787823,India,Chennai,,,812,12,,20161227,1482840207,PAGE,,,25000000,,GGOEGGCX056299,Gift Card - $25.00,Home/Gift Cards/,,,,,0
+0232377434237234751,Direct,790869,United States,not available in demo dataset,,,1410,20,,20170509,1494358492,PAGE,,,25000000,,GGOEGGCX056299,Gift Card - $25.00,Home/Gift Cards/,,,,,0
+7962409641348621014,Social,106294,United States,not available in demo dataset,,,106,5,,20161110,1478845991,PAGE,,,250000000,,GGOEGGCX056399,Gift Card - $250.00,Home/Gift Cards/,,,,,0
+2723753856722037137,Social,983771,United States,San Francisco,,,2635,15,,20170117,1484703275,PAGE,,,250000000,,GGOEGGCX056399,Gift Card - $250.00,Home/Gift Cards/,,,,,0
+926267749376657003,Direct,406716,United States,not available in demo dataset,,,1317,29,,20160818,1471571037,PAGE,,,250000000,,GGOEGGCX056399,Gift Card - $250.00,Home/Gift Cards/,,,,,0
+9335173242683317494,Organic Search,69323,United States,not available in demo dataset,,,383,23,,20170311,1489293371,PAGE,,,250000000,,GGOEGGCX056399,Gift Card - $250.00,Home/Gift Cards/,,,,,0
+5522400911395442199,Organic Search,1235015,United States,not available in demo dataset,,,2369,33,,20170510,1494467749,PAGE,,,250000000,,GGOEGGCX056399,Gift Card - $250.00,Home/Gift Cards/,,,,,0
+9629653842914989541,Referral,216363,United States,San Francisco,,,416,14,,20161119,1479625418,PAGE,,,250000000,,GGOEGGCX056399,Gift Card - $250.00,Home/Gift Cards/,,,,,0
+6861142850530092597,Organic Search,99041,United States,St. Louis,,,172,4,,20170323,1490318866,PAGE,,,250000000,,GGOEGGCX056399,Gift Card - $250.00,Home/Gift Cards/,,,,,0
+6190883320456583005,Affiliates,262406,Hungary,not available in demo dataset,,,500,10,,20170613,1497347574,PAGE,,,50000000,,GGOEGGCX056499,Gift Card - $50.00,Home/Gift Cards/,,,,,0
+3802794542878033486,Organic Search,595140,United States,not available in demo dataset,44980000,1,713,27,,20170326,1490519740,PAGE,,,50000000,,GGOEGGCX056499,Gift Card - $50.00,Home/Gift Cards/,,,,,0
+6151804422158269202,Social,11717,Thailand,Bangkok,,,12,2,,20170220,1487636397,PAGE,,,50000000,,GGOEGGCX056499,Gift Card - $50.00,Home/Gift Cards/,,,,,0
+9295059840620521020,Direct,0,United States,not available in demo dataset,,,41,3,,20161219,1482215327,PAGE,,,50000000,,GGOEGGCX056499,Gift Card - $50.00,Home/Gift Cards/,,,,,0
+9758235511148216157,Direct,756666,United States,Sunnyvale,,,1029,25,,20170523,1495570950,PAGE,,,50000000,,GGOEGGCX056499,Gift Card - $50.00,Home/Gift Cards/,,,,,0
+0911066238367936196,Social,1272488,Algeria,not available in demo dataset,,,1482,10,,20170617,1497713444,PAGE,,,50000000,,GGOEGGCX056499,Gift Card - $50.00,Home/Gift Cards/,,,,,0
+0804385207097683121,Direct,185839,Kazakhstan,not available in demo dataset,,,667,37,,20160821,1471772932,PAGE,,,50000000,,GGOEGGCX056499,Gift Card - $50.00,Home/Gift Cards/,,,,,0
+4196623334901057991,Organic Search,1232459,United States,El Paso,,,1940,46,,20170620,1498020141,EVENT,,,50000000,,GGOEGGCX056499,Gift Card - $50.00,Home/Gift Cards/,,,,,0
+4884778281436388667,Referral,288727,United States,Cambridge,555000000,1,485,75,,20161128,1480363993,PAGE,,,50000000,,GGOEGGCX056499,Gift Card - $50.00,Home/Gift Cards/,,,,,0
+5417334247029235850,Organic Search,445693,United States,Santa Clara,,,446,11,,20170610,1497132640,PAGE,,,50000000,,GGOEGGCX056499,Gift Card - $50.00,Home/Gift Cards/,,,,,0
+937994839279902527,Organic Search,1135040,United States,not available in demo dataset,56000000,2,1572,32,,20170202,1486086007,PAGE,,,50000000,,GGOEGGCX056499,Gift Card - $50.00,Home/Gift Cards/,,,,,0
+631075242596093124,Direct,0,Japan,not available in demo dataset,,,,1,,20170205,1486342054,PAGE,,,50000000,,GGOEGGCX056499,Gift Card - $50.00,Home/Gift Cards/,,,,,0
+8851822767477687842,Referral,1297561,United States,Ann Arbor,,,1474,25,,20160926,1474896110,PAGE,,,790000,,GGOEGGOA017399,Maze Pen,Home/Office/Writing Instruments/,,,,,0
+198728188440652103,Social,398031,Germany,not available in demo dataset,,,627,31,,20160926,1474901700,PAGE,,,990000,,GGOEGGOA017399,Maze Pen,Home/Office/Writing Instruments/,,,,,0
+725818793822561011,Affiliates,34014,Spain,not available in demo dataset,,,105,8,,20160803,1470291589,PAGE,,,28990000,,GGOEGHPA002910,Google Trucker Hat,Home/Shop by Brand/,,,,,0
+0309934088534316276,Affiliates,16866,United States,Druid Hills,,,26,7,,20160906,1473171949,PAGE,,,28990000,,GGOEGHPA002910,Google Trucker Hat,Home/Shop by Brand/,,,,,0
+7406034241760755547,Referral,978465,United States,not available in demo dataset,,,1242,22,,20160911,1473608389,PAGE,,,17590000,,GGOEGHPA002910,Google Trucker Hat,Home/Apparel/Headgear/,,,,,0
+3470906211474381320,Referral,25446,United States,not available in demo dataset,,,96,10,,20160805,1470420758,PAGE,,,24790000,,GGOEGHPA002910,Google Trucker Hat,Home/Shop by Brand/,,,,,0
+6498540957482794009,Direct,711357,Mexico,Mexico City,,,1675,24,,20160826,1472266616,PAGE,,,28990000,,GGOEGHPA002910,Google Trucker Hat,Home/Shop by Brand/,,,,,0
+2575571309189584355,Referral,775641,United States,not available in demo dataset,56560000,1,1435,58,,20160919,1474338047,PAGE,,,17590000,,GGOEGHPA002910,Google Trucker Hat,Home/Apparel/Headgear/,,,,,0
+2010608390281771688,Organic Search,38966,Japan,not available in demo dataset,,,86,7,,20160901,1472721883,PAGE,,,31990000,,GGOEGHPB003410,Google Snapback Hat Black,Home/Shop by Brand/,,,,,0
+076528987249305270,Direct,10306,United States,Mountain View,,,374,29,,20160906,1473195653,PAGE,,,31990000,,GGOEGHPB003410,Google Snapback Hat Black,Home/Apparel/Headgear/,,,,,0
+0648683621221287745,Referral,165419,United States,Sunnyvale,,,165,16,,20160923,1474669237,PAGE,,,9590000,,GGOEGKWQ060910,Google Bib White,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+3774290640097206760,Organic Search,1375291,Taiwan,(not set),,,1459,33,25,20170713,1500012253,PAGE,,,9590000,,GGOEGKWQ060910,Google Bib White,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+5098754129844431163,Referral,681581,United States,Palo Alto,,,984,30,88,20170721,1500684949,PAGE,,,9590000,,GGOEGKWQ060910,Google Bib White,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+0315387128062353822,Referral,89848,United States,New York,47570000,1,354,15,,20170301,1488383416,PAGE,,,9590000,,GGOEGKWQ060910,Google Bib White,Home/Apparel/Kid's/,,,,,0
+5857676743018965961,Referral,59260,United States,Mountain View,,,685,22,,20170414,1492200931,PAGE,,,9590000,,GGOEGKWQ060910,Google Bib White,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+0089921434559477448,Referral,961377,United States,Mountain View,519000000,1,4545,63,,20170520,1495331865,PAGE,,,9590000,,GGOEGKWR060810,Google Bib Red,Home/Apparel/Kid's/,,,,,0
+4718520682231099214,Direct,2124329,United States,not available in demo dataset,1532370000,1,2382,55,,20170213,1487054351,PAGE,,,9590000,,GGOEGKWR060810,Google Bib Red,Home/Apparel/Kid's/Kid's-Infant/,,,,,0
+0184008553941986457,Referral,121467,Thailand,Bangkok,,,1655,53,,20170125,1485357012,PAGE,,,9590000,,GGOEGKWR060810,Google Bib Red,Home/Apparel/Kid's/Kid's-Toddler/,,,,,0
+3716185450384518262,Referral,1885602,United States,not available in demo dataset,,,1911,33,,20160924,1474732930,PAGE,,,1200000,,GGOEGOAB015899,Rainbow Stylus Pen,Home/Office/Writing Instruments/,,,,,0
+4801261533655532174,Organic Search,411502,United States,not available in demo dataset,,,655,43,,20160916,1474031917,PAGE,,,28990000,,GGOEGOAB021499,Metal Texture Roller Pen,Home/Office/Writing Instruments/,,,,,0
+1260460732787063173,Direct,316961,United States,San Jose,,,408,9,,20160921,1474478938,PAGE,,,28990000,,GGOEGOAB021499,Metal Texture Roller Pen,Home/Office/Writing Instruments/,,,,,0
+3343911594542334618,Referral,175929,United States,not available in demo dataset,,,330,13,,20160922,1474543836,PAGE,,,28990000,,GGOEGOAB021499,Metal Texture Roller Pen,Home/Office/Writing Instruments/,,,,,0
+9366158769382081776,Social,149149,Egypt,Alexandria,,,149,13,,20160921,1474457259,PAGE,,,28990000,,GGOEGOAB021499,Metal Texture Roller Pen,Home/Office/Writing Instruments/,,,,,0
+9391651875893778247,Direct,3721636,Romania,Bucharest,,,4171,224,,20160924,1474717533,PAGE,,,28990000,,GGOEGOAB021499,Metal Texture Roller Pen,Home/Office/Writing Instruments/,,,,,0
+273996811613366777,Organic Search,602300,France,Paris,,,738,12,,20170629,1498754232,PAGE,,,28990000,,GGOEGOAB021499,Metal Texture Roller Pen,Home/Clearance Sale/,,,,,0
+8751885410238603021,Referral,299521,United States,Sunnyvale,,,590,27,,20160915,1473961112,PAGE,,,31990000,,GGOEGOAB022499,Satin Black Ballpoint Pen,Home/Office/Writing Instruments/,,,,,0
+570123615296033261,Referral,28740,United States,New York,124380000,1,1111,13,,20170601,1496340660,PAGE,,,31990000,,GGOEGOAB022499,Satin Black Ballpoint Pen,Home/Clearance Sale/,,,,,0
+7330431031028145527,Referral,52142,United States,New York,,,66,6,,20160930,1475285547,PAGE,,,990000,,GGOEGOAC021799,Ballpoint Pen Blue,Home/Office/Writing Instruments/,,,,,0
+9391651875893778247,Direct,3453246,Romania,Bucharest,,,4171,224,,20160924,1474717533,PAGE,,,990000,,GGOEGOAC021799,Ballpoint Pen Blue,Home/Office/Writing Instruments/,,,,,0
+3404534729347614426,Organic Search,471995,Brazil,not available in demo dataset,,,474,34,,20160915,1473960575,PAGE,,,990000,,GGOEGOAC021799,Ballpoint Pen Blue,Home/Office/Writing Instruments/,,,,,0
+5604966991271788743,Organic Search,486873,United States,not available in demo dataset,,,636,34,,20160915,1473993992,PAGE,,,990000,,GGOEGOAC021799,Ballpoint Pen Blue,Home/Office/Writing Instruments/,,,,,0
+1076393146333470504,Referral,320944,United States,Mountain View,,,3250,21,57,20170721,1500661255,PAGE,,,4400000,,GGOEGOAR013599,Ballpoint Stylus Pen,Home/Clearance Sale/,,,,,0
+6290801351090440113,Referral,184959,United States,New York,,,208,9,,20161005,1475723069,PAGE,,,4400000,,GGOEGOAR013599,Ballpoint Stylus Pen,Home/Office/Writing Instruments/,,,,,0
+0391718799805034510,Organic Search,1417182,United States,not available in demo dataset,,,1470,34,,20160930,1475278488,PAGE,,,1250000,,GGOEGOAR021899,Retractable Ballpoint Pen Red,Home/Office/Writing Instruments/,,,,,0
+8648532462777463116,Direct,52580,Australia,not available in demo dataset,,,244,14,,20161217,1482031890,PAGE,,,1250000,,GGOEGOAR021899,Retractable Ballpoint Pen Red,Writing/,,,,,0
+9407411142026570431,Referral,138400,United States,Sunnyvale,,,1269,34,,20160921,1474476749,PAGE,,,1000000,,GGOEGOAR021899,Retractable Ballpoint Pen Red,Home/Office/Writing Instruments/,,,,,0
+1882314657740357595,Referral,51819,United States,San Francisco,,,59,13,,20161004,1475602718,PAGE,,,1250000,,GGOEGOAR021899,Retractable Ballpoint Pen Red,Home/Office/Writing Instruments/,,,,,0
+7611950596077508619,Organic Search,577334,Brazil,Sao Paulo,,,598,48,,20161006,1475804744,PAGE,,,1250000,,GGOEGOAR021899,Retractable Ballpoint Pen Red,Home/Office/Writing Instruments/,,,,,0
+1540821473674826680,Organic Search,135669,South Korea,not available in demo dataset,,,329,21,,20161003,1475493532,PAGE,,,1250000,,GGOEGOAR021899,Retractable Ballpoint Pen Red,Home/Office/Writing Instruments/,,,,,0
+8196862752401150350,Organic Search,16465,United States,not available in demo dataset,,,115,10,,20160928,1475073315,PAGE,,,1250000,,GGOEGOAR021899,Retractable Ballpoint Pen Red,Home/Office/Writing Instruments/,,,,,0
+9053770505272120887,Referral,310969,United States,not available in demo dataset,,,424,39,,20161003,1475541872,PAGE,,,2800000,,GGOEGOCC017699,Compact Journal with Recycled Pages,Home/Office/Notebooks & Journals/,,,,,0
+667635810816862764,Referral,1403882,United States,not available in demo dataset,,,1477,36,,20160917,1474126127,PAGE,,,2800000,,GGOEGOCC017699,Compact Journal with Recycled Pages,Home/Office/Notebooks & Journals/,,,,,0
+6153484635598413980,Organic Search,680067,United States,Mountain View,,,782,14,52,20170710,1499708980,PAGE,,,44990000,,GGOEGOCD078399,Google Leather Perforated Journal,Home/Clearance Sale/,,,,,0
+4591627560446875362,Referral,150636,United States,Mountain View,,,151,4,,20170629,1498782729,PAGE,,,19190000,,GGOEGOCR078499,Google Spiral Leather Journal,Home/Clearance Sale/,,,,,0
+0642830728760694475,Referral,692033,United States,Washington,,,1446,60,,20161207,1481148382,PAGE,,,1200000,,GGOEGODR017799,Recycled Mouse Pad,Home/Office/Office Other/,,,,,0
+7299910656082724518,Direct,137113,United States,not available in demo dataset,,,137,7,,20161220,1482266101,PAGE,,,1200000,,GGOEGODR017799,Recycled Mouse Pad,Home/Office/Office Other/,,,,,0
+4302636741960000800,Referral,974338,United States,not available in demo dataset,,,1570,39,,20160929,1475165717,PAGE,,,1200000,,GGOEGODR017799,Recycled Mouse Pad,Home/Accessories/,,,,,0
+7188719333447492603,Referral,2276237,Switzerland,not available in demo dataset,,,4039,52,,20170223,1487866614,PAGE,,,1200000,,GGOEGODR017799,Recycled Mouse Pad,Home/Office/Office Other/,,,,,0
+5004564575209211301,Referral,1285425,United States,Mountain View,,,1700,38,,20160929,1475166384,PAGE,,,1200000,,GGOEGODR017799,Recycled Mouse Pad,Home/Accessories/,,,,,0
+1072339345648662168,Referral,1571941,United States,not available in demo dataset,,,3795,63,,20161004,1475608361,PAGE,,,1200000,,GGOEGODR017799,Recycled Mouse Pad,Home/Office/Office Other/,,,,,0
+7056558630416771928,Referral,359613,United States,Palo Alto,,,360,13,,20170524,1495664839,PAGE,,,1590000,,GGOEGOFH020299,Galaxy Screen Cleaning Cloth,Home/Office/Office Other/,,,,,0
+0360565950658770082,Direct,513063,United States,Mountain View,,,513,23,,20170206,1486404452,PAGE,,,1590000,,GGOEGOFH020299,Galaxy Screen Cleaning Cloth,Home/Office/Office Other/,,,,,0
+0856776404467424041,Referral,346220,United States,Mountain View,,,392,12,,20161004,1475613631,PAGE,,,1590000,,GGOEGOFH020299,Galaxy Screen Cleaning Cloth,Home/Electronics/Electronics Accessories/,,,,,0
+3783478137758293911,Organic Search,799467,United States,San Francisco,,,1169,25,,20170602,1496443172,PAGE,,,1590000,,GGOEGOFH020299,Galaxy Screen Cleaning Cloth,Home/Office/Office Other/,,,,,0
+20712449954637118,Referral,200616,United States,Mountain View,,,246,9,,20170531,1496275533,PAGE,,,1590000,,GGOEGOFH020299,Galaxy Screen Cleaning Cloth,Home/Office/Office Other/,,,,,0
+199864702108918559,Referral,0,United States,not available in demo dataset,,,,1,,20170518,1495109992,PAGE,,,1590000,,GGOEGOFH020299,Galaxy Screen Cleaning Cloth,Home/Office/Office Other/,,,,,0
+096830421763570474,Referral,225314,United States,not available in demo dataset,,,630,37,,20160922,1474533920,PAGE,,,4790000,,GGOEGOLC014299,Google Metallic Notebook Set,Home/Office/Notebooks & Journals/,,,,,0
+5393564423010842176,Referral,73830,United States,not available in demo dataset,,,97,7,,20161229,1483035867,PAGE,,,1590000,,GGOEGOXQ016399,Badge Holder,Home/Office/Office Other/,,,,,0
+4305909098334267738,Organic Search,1515624,United States,Cambridge,96690000,1,1869,79,71,20170727,1501160958,PAGE,,,1590000,,GGOEGOXQ016399,Badge Holder,Home/Office/Office Other/,,,,,0
+2513134404212328094,Referral,442195,United States,not available in demo dataset,,,1094,44,,20170209,1486653284,PAGE,,,1590000,,GGOEGOXQ016399,Badge Holder,Home/Office/Office Other/,,,,,0
+2824603225497510985,Referral,146457,United States,Santa Clara,,,170,8,,20170620,1498004471,PAGE,,,1590000,,GGOEGOXQ016399,Badge Holder,Home/Office/Office Other/,,,,,0
+3230362717696636703,Referral,531639,United States,Mountain View,,,638,50,,20160921,1474467432,PAGE,,,1590000,,GGOEGOXQ016399,Badge Holder,Home/Office/Office Other/,,,,,0
+158115913597658737,Referral,447831,United States,Mountain View,,,920,19,,20160818,1471542591,PAGE,,,6390000,,GGOEYDHJ019399,24 oz YouTube Sergeant Stripe Bottle,Home/Shop by Brand/,,,,,0
+4281841459173687602,Referral,410546,United States,Mountain View,,,1088,58,,20160826,1472227307,PAGE,,,17590000,,GGOEYHPA003510,YouTube Trucker Hat,Home/Shop by Brand/,,,,,0
+3112990088124452872,Referral,1186204,United States,not available in demo dataset,,,1469,69,,20160922,1474577365,PAGE,,,8790000,,GGOEYHPB072210,YouTube Twill Cap,Home/Apparel/Headgear/,,,,,0
+748200454615490914,Referral,3505628,United States,New York,53000000,1,4885,45,86,20170801,1501598702,EVENT,,,43990000,,GGOEGAAX0579,Google Women's Short Sleeve Performance Tee Charcoal,Home/Apparel/Women's/Women's-Performance Wear/,,,,,1
+6235617132232572568,Referral,165692,United States,Mountain View,,,180,17,,20170605,1496676345,EVENT,,,104990000,,GGOEGAAX0586,Google Women's Yoga Jacket Black,Home/Apparel/Women's/Women's-Performance Wear/,,,,,1
+7171290027410037351,Referral,1122552,United States,Sunnyvale,,,2399,46,,20160815,1471307049,EVENT,,,111990000,,GGOEGAAX0587,Google Women's Zip Hoodie Grey,Home/Apparel/Women's/Women's-Outerwear/,,,,,1
+7313300262774501192,Referral,392599,United States,Mountain View,,,991,28,,20161118,1479497016,EVENT,,,19190000,,GGOEGAAX0610,Google Onesie Red/Graphite,Home/Apparel/Kid's/Kid's-Infant/,,,,,1
+8714813617554112547,Direct,75691,Taiwan,(not set),,,2359,37,,20170207,1486523238,EVENT,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,1
+8626232523211761513,Referral,697530,Australia,Sydney,,,1023,30,,20160823,1472017325,EVENT,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,1
+6654973844457696415,Referral,197044,United States,Sunnyvale,,,375,11,,20170201,1485961487,EVENT,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,1
+4774962189935177504,Organic Search,726935,United States,not available in demo dataset,,,763,41,,20160920,1474420350,EVENT,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,1
+6956627135034788884,Referral,571518,United States,Santa Clara,,,2037,74,,20161029,1477766768,EVENT,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,1
+3308039382193082920,Referral,251198,United States,not available in demo dataset,,,406,11,,20161128,1480389448,EVENT,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,1
+5558293952440432627,Organic Search,1134418,Taiwan,not available in demo dataset,,,1359,42,,20161203,1480788279,EVENT,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,1
+2760321897851747654,Direct,882624,United States,New York,,,1459,11,53,20170714,1500053087,EVENT,,,27190000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,1
+5594550862521912148,Referral,260806,United States,New York,74190000,1,690,43,,20160828,1472415121,EVENT,,,33990000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,1
+4782949872529543342,Organic Search,1156662,Australia,not available in demo dataset,,,1283,10,,20161112,1479019337,EVENT,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,1
+2943746373898362304,Referral,3819930,Japan,Osaka,,,4138,99,,20170529,1496118354,EVENT,,,37990000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,1
+4371319639324019730,Referral,28427,United States,San Francisco,,,90,8,,20170530,1496205956,EVENT,,,37990000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,1
+6295250003347725316,Referral,47582,United States,not available in demo dataset,,,241,14,,20170414,1492195333,EVENT,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,1
+1267712781853719072,Referral,242441,United States,New York,,,1411,87,,20170201,1485983111,EVENT,,,43990000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,1
+7493492286157613340,Direct,67785,Brazil,not available in demo dataset,,,88,10,,20160823,1471985670,EVENT,,,26990000,,GGOEGAAX0757,Google Adult Tee Fruit Games Dragonfruit,Home/Fruit Games/,,,,,1
+4670807287754555335,Referral,171058,United States,Palo Alto,,,290,17,,20160813,1471155152,EVENT,,,26990000,,GGOEGAAX0758,Google Adult Tee Fruit Games Cherries,Home/Fruit Games/,,,,,1
+0058247020193506669,Referral,0,United States,Sunnyvale,,,99,4,,20170516,1494917786,EVENT,,,10390000,,GGOEGDWR015799,Red Shine 15 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,1
+4631228469003891841,Referral,128121,United States,Austin,,,148,12,,20161004,1475628642,EVENT,,,47990000,,GGOEGEHQ024099,Clip-on Compact Charger,Home/Electronics/Power/,,,,,1
+4346873387082069680,Social,222684,United States,Mountain View,,,499,33,,20160916,1474070783,EVENT,,,47190000,,GGOEGEHQ071199,"Google High Capacity 10,400mAh Charger",Home/Electronics/Power/,,,,,1
+5712068909667694564,Organic Search,30493,Singapore,not available in demo dataset,,,1330,11,,20170108,1483945887,EVENT,,,49990000,,GGOEGEVB070499,Google Bluetooth Headphones,Home/Electronics/Audio/,,,,,1
+3459593202814627600,Organic Search,24892,Australia,Sydney,,,108,6,,20161003,1475558504,EVENT,,,49990000,,GGOEGEVB070499,Google Bluetooth Headphones,Home/Electronics/Audio/,,,,,1
+3474040404920434812,Affiliates,213159,United States,Los Angeles,,,639,27,,20170427,1493339445,EVENT,,,100000000,,GGOEGGCX056199,Gift Card- $100.00,Home/Gift Cards/,,,,,1
+2788555723243018631,Direct,721265,United States,San Francisco,258000000,1,1125,58,,20160801,1470077433,EVENT,,,25000000,,GGOEGGCX056299,Gift Card - $25.00,Home/Gift Cards/,,,,,1
+9657742098396819155,Referral,440799,United States,Kirkland,28190000,1,786,21,,20170411,1491929316,EVENT,,,9590000,,GGOEGKWR060810,Google Bib Red,Home/Apparel/Kid's/Kid's-Infant/,,,,,1
+2873295286462623572,Referral,1364723,United States,New York,,,1687,43,,20161026,1477505561,EVENT,,,1200000,,GGOEGODR017799,Recycled Mouse Pad,Home/Office/Office Other/,,,,,1
+4362730247925977615,Referral,27986,United States,New York,181000000,1,1077,39,,20160915,1473966794,EVENT,,,1590000,,GGOEGOXQ016399,Badge Holder,Home/Office/Office Other/,,,,,1
+5381050713444161214,Referral,1502476,United States,Mountain View,,,1807,36,,20160919,1474316028,PAGE,,,44790000,,GGOEGAAX0361,Android Women's Fleece Hoodie,Home/Apparel/Women's/Women's-Outerwear/,,,,,2
+9801276214964695322,Organic Search,135153,United States,not available in demo dataset,,,806,19,,20160918,1474248300,PAGE,,,54990000,,GGOEGAAX0570,Google Men's Short Sleeve Performance Badge Tee Charcoal,Home/Apparel/Men's/Men's-Performance Wear/,,,,,2
+5589368509731583964,Referral,270961,United States,New York,,,290,12,,20170403,1491250035,PAGE,,,17590000,,GGOEGAAX0601,Google Women's Short Sleeve Performance Tee Pewter,Home/Apparel/Women's/Women's-Performance Wear/,,,,,2
+3862335714593915688,Referral,506780,United States,Palo Alto,247000000,1,507,23,,20161226,1482787047,PAGE,,,79190000,,GGOEGAAX0607,Google Women's Convertible Vest-Jacket Sea Foam Green,Home/Apparel/Women's/Women's-Performance Wear/,,,,,2
+54766768813666410,Direct,354558,United States,Chicago,127000000,1,804,24,,20161031,1477942906,PAGE,,,19190000,,GGOEGAAX0613,Google Onesie Green,Home/Apparel/Kid's/Kid's-Infant/,,,,,2
+8558709137504537052,Referral,94909,United States,not available in demo dataset,,,161,7,,20161007,1475848565,PAGE,,,30390000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,2
+0267986414856681204,Referral,133962,United States,San Bruno,53970000,1,413,18,,20161117,1479405334,PAGE,,,37990000,,GGOEGAAX0627,Google Infant Zip Hood Pink,Home/Apparel/Kid's/Kid's-Infant/,,,,,2
+8139956291602075639,Direct,654125,United States,Chicago,,,654,34,,20161012,1476293804,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,2
+5923785341724478182,Organic Search,131831,Italy,not available in demo dataset,,,137,7,,20161109,1478680738,PAGE,,,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/,,,,,2
+3090567115869358047,Referral,115896,United States,Kirkland,,,191,19,,20170601,1496339660,PAGE,,,30390000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,2
+0314733033105141755,Referral,39980,United States,not available in demo dataset,51710000,1,722,21,,20160902,1472879820,PAGE,,,33990000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,2
+589585717768186070,Referral,70427,Ireland,Dublin,,,114,6,,20160811,1470906668,PAGE,,,30390000,,GGOEGAAX0656,Google Toddler Hoodie Royal Blue,Home/Apparel/Kid's/Kid's-Toddler/,,,,,2
+6658065818028361552,Referral,747661,United States,Ann Arbor,,,1528,49,,20170406,1491508107,PAGE,,,30390000,,GGOEGAAX0657,Google Toddler 1/4 Zip Fleece Pewter,Home/Apparel/Kid's/Kid's-Toddler/,,,,,2
+7263212197173111647,Direct,303980,United States,not available in demo dataset,,,1678,39,,20170101,1483329491,PAGE,,,19190000,,GGOEGAAX0659,Google Toddler Raglan Shirt Blue Heather/Navy,Home/Apparel/Kid's/Kid's-Toddler/,,,,,2
+5147300688603884511,Referral,746889,United States,Chicago,84760000,1,1004,27,,20161019,1476888589,PAGE,,,35200000,,GGOEGAAX0689,Google Youth Girl Hoodie,Home/Apparel/Kid's/Kids-Youth/,,,,,2
+7103248743233970862,Direct,20656,United States,Mountain View,,,36,4,,20160824,1472075104,PAGE,,,26990000,,GGOEGAAX0758,Google Adult Tee Fruit Games Cherries,Home/Fruit Games/,,,,,2
+5039450677611598907,Direct,163294,United States,Sunnyvale,,,1003,30,78,20170705,1499281443,PAGE,,,12790000,,GGOEGBJL013999,Google Canvas Tote Natural/Navy,Home/Bags/Shopping and Totes/,,,,,2
+38807504266512636,Referral,263069,United States,Mountain View,,,345,20,,20161207,1481168131,PAGE,,,7190000,,GGOEGDWC020199,Engraved Ceramic Google Mug,Home/Drinkware/Mugs and Cups/,,,,,2
+6781934558737955524,Referral,1615366,United States,Ann Arbor,60970000,1,2076,31,,20161030,1477852085,PAGE,,,10390000,,GGOEGDWR015799,Red Shine 15 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,2
+2444057702845247657,Referral,40680,United States,Kirkland,104980000,1,759,33,78,20170724,1500934490,PAGE,,,10390000,,GGOEGDWR015799,Red Shine 15 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,2
+1780409618880129000,Referral,121086,Canada,not available in demo dataset,,,201,19,,20160929,1475172252,PAGE,,,97990000,,GGOEGEFQ071399,Google Phone Sanitizer,Home/Electronics/Electronics Accessories/,,,,,2
+8637158932301658318,Referral,1839833,United States,San Jose,382000000,15,3595,139,,20170531,1496250783,PAGE,,,25000000,,GGOEGGCX056299,Gift Card - $25.00,Home/Gift Cards/,,,,,2
+6815234192194618942,Referral,841458,United States,New York,203360000,1,1148,60,,20160927,1475008146,PAGE,,,4400000,,GGOEGOAR013099,Google Stylus Pen w/ LED Light,Home/Office/Writing Instruments/,,,,,2
+6740624239409080883,Organic Search,3048143,United States,Mountain View,,,3758,45,,20170501,1493658587,EVENT,,2,2800000,,GGOEGAAX0037,Google Sunglasses,${escCatTitle},,,,,3
+5427034488751812445,Organic Search,514190,United States,Fort Worth,57350000,1,904,44,,20160810,1470886063,EVENT,,1,4000000,,GGOEGAAX0037,Google Sunglasses,${escCatTitle},,,,,3
+5062837720639348871,Referral,62850,United States,New York,,,1438,33,,20170502,1493733114,EVENT,,2,2800000,,GGOEGAAX0037,Google Sunglasses,${escCatTitle},,,,,3
+2575256090311301096,Referral,220410,United States,not available in demo dataset,135960000,1,573,34,,20161108,1478656312,EVENT,,,31990000,,GGOEGAAX0311,Google Men's Heavyweight Long Sleeve Hero Tee Navy,${escCatTitle},,,,,3
+4672677457109865399,Referral,225422,United States,San Francisco,,,402,28,,20161006,1475784631,EVENT,,1,44790000,,GGOEGAAX0358,Google Men's  Zip Hoodie,${escCatTitle},,,,,3
+3279130308050377426,Referral,180628,United States,San Francisco,,,822,36,,20160805,1470436894,EVENT,,1,111990000,,GGOEGAAX0587,Google Women's Zip Hoodie Grey,Home/Apparel/Women's/Women's-Outerwear/,,,,,3
+8944295631651016161,Referral,254362,United States,not available in demo dataset,,,323,12,,20170703,1499085121,EVENT,,1,17590000,,GGOEGAAX0590,Google Men's Short Sleeve Performance Badge Tee Navy,${escCatTitle},,,,,3
+5492630606781186660,Referral,1332790,United States,Chicago,20190000,1,1427,12,,20161004,1475609518,EVENT,,,19190000,,GGOEGAAX0610,Google Onesie Red/Graphite,${escCatTitle},,,,,3
+295775756520311310,Direct,275274,United States,Mountain View,,,390,21,,20170315,1489618411,EVENT,,1,19190000,,GGOEGAAX0617,Android Onesie Gold,Home/Apparel/Kid's/Kid's-Infant/,,,,,3
+5013441016621351326,Referral,41440,United States,Mountain View,98360000,1,1124,25,,20170414,1492198690,EVENT,,1,37990000,,GGOEGAAX0628,Google Infant Zip Hood Royal Blue,Home/Apparel/Kid's/Kid's-Infant/,,,,,3
+9429712068285188439,Referral,626264,United States,Kirkland,64580000,1,1472,24,,20170623,1498283637,EVENT,,,33990000,,GGOEGAAX0629,Google Baby Essentials Set,${escCatTitle},,,,,3
+8007300615127214527,Organic Search,158755,United States,Sunnyvale,,,166,8,,20160901,1472744911,EVENT,,1,33990000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,3
+146276545760921373,Organic Search,198031,United States,Los Angeles,,,657,34,,20170629,1498759552,EVENT,,1,33990000,,GGOEGAAX0629,Google Baby Essentials Set,Home/Apparel/Kid's/Kid's-Infant/,,,,,3
+1856749147915772585,Organic Search,97126,Canada,Montreal,,,878,33,,20170410,1491855762,EVENT,,,33990000,,GGOEGAAX0630,Android Baby Essentials Baby Set,${escCatTitle},,,,,3
+9181613675290257158,Referral,56718,United States,not available in demo dataset,305000000,1,654,20,,20170411,1491974799,EVENT,,2,149000000,,GGOEGAAX0794,Nest® Learning Thermostat 3rd Gen-USA,${escCatTitle},,,,,3
+6481176079346685943,Social,73525,Germany,not available in demo dataset,,,97,4,,20170504,1493949765,EVENT,,,41990000,,GGOEGXXX0845,BLM Sweatshirt (Pre-Order),${escCatTitle},,,,,3
+3835134197841326255,Referral,189861,United States,Cambridge,1221750000,1,673,42,,20170216,1487265868,EVENT,,12,10390000,,GGOEADWQ015699,Android Rise 14 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,3
+5450212768993016861,Referral,316853,United States,not available in demo dataset,,,1508,43,,20170105,1483632349,EVENT,,1,10390000,,GGOEADWQ015699,Android Rise 14 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,3
+9328692348677910181,Organic Search,180337,India,not available in demo dataset,,,665,27,,20170324,1490338007,EVENT,,1,4500000,,GGOEGCGB022199,Fashion Sunglasses & Pouch,${escCatTitle},,,,,3
+5032102780863514291,Referral,176336,United States,New York,,,601,35,,20170210,1486753539,EVENT,,1,10390000,,GGOEGDWR015799,Red Shine 15 oz Mug,Home/Drinkware/Mugs and Cups/,,,,,3
+239169120122428785,Referral,645579,United States,New York,90110000,1,1919,50,79,20170731,1501545926,EVENT,,1,47990000,,GGOEGEHQ024099,Clip-on Compact Charger,${escCatTitle},,,,,3
+193976941364683442,Organic Search,11950,United States,New York,,,369,14,,20161026,1477492798,EVENT,,60,25000000,,GGOEGGCX056299,Gift Card - $25.00,${escCatTitle},,,,,3
+6052901290811595351,Organic Search,96512,United States,Mountain View,274000000,1,855,36,,20161215,1481816770,EVENT,,3,25000000,,GGOEGGCX056299,Gift Card - $25.00,${escCatTitle},,,,,3
+2509157975068100994,Organic Search,1519315,United States,not available in demo dataset,,,3022,65,,20160821,1471811428,EVENT,,1,990000,,GGOEGGOA017399,Maze Pen,${escCatTitle},,,,,3
+3946749082213874642,Direct,309434,United States,not available in demo dataset,21820000,1,1008,27,,20161023,1477259496,EVENT,,18,990000,,GGOEGGOA017399,Maze Pen,${escCatTitle},,,,,3
+8937539596290330126,Referral,336164,United States,not available in demo dataset,,,736,28,,20160906,1473218462,EVENT,,1,2800000,,GGOEGHGC019799,Google Sunglasses,${escCatTitle},,,,,3
+6760732402251466726,Referral,1637332,United States,Mountain View,616500000,5,1759,56,,20161117,1479397718,EVENT,,20,1200000,,GGOEGODR017799,Recycled Mouse Pad,Home/Office/Office Other/,,,,,3
+0864847582226916144,Direct,1398042,United States,Seattle,302000000,1,2631,36,,20170412,1492014696,EVENT,,1,149000000,,GGOENEBD084799,Nest® Learning Thermostat 3rd Gen-USA - Copper,${escCatTitle},,,,,3
+1225065308619689830,Referral,602662,United States,Mountain View,,,683,22,56,20170727,1501181076,EVENT,,1,149000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,${escCatTitle},,,,,3
+1598696868992047497,Direct,646430,United States,Mountain View,,,760,12,,20161127,1480269559,EVENT,,2,149000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,${escCatTitle},,,,,3
+4998444590527389280,Referral,1800836,United States,San Francisco,,,2893,77,,20160925,1474845319,EVENT,,1,31990000,,GGOEGAEL031116,Google Heavyweight Long Sleeve Hero Tee Navy,(not set),,,,,4
+8343235523660453315,Referral,2093288,United States,not available in demo dataset,,,2456,51,,20170118,1484786599,EVENT,,1,17590000,,GGOEGALL060013,Google Women's Short Sleeve Performance Tee Navy,(not set),,,,,4
+771815932973256902,Paid Search,643201,United States,not available in demo dataset,36600000,1,1308,23,41,20170730,1501480779,EVENT,,1,8490000,,GGOEGALL074616,Google Women's Short Sleeve Badge Tee Navy,(not set),,,,,4
+4362809979067745350,Referral,135884,United States,San Francisco,215810000,1,876,26,,20161003,1475531955,EVENT,,1,27190000,,GGOEGAWQ062953,Google Baby Essentials Set,(not set),,,,,4
+4785023226103851500,Referral,2200289,United States,not available in demo dataset,,,2227,46,,20170517,1495074760,EVENT,,1,10390000,,GGOEGDWR015799,Red Shine 15 oz Mug,(not set),,,,,4
+073263666822991129,Organic Search,0,United States,not available in demo dataset,,,25,1,,20160904,1473052841,EVENT,,1,97990000,,GGOEGEFQ071399,Google Phone Sanitizer,(not set),,,,,4
+0076628628953195350,Organic Search,315772,United Kingdom,not available in demo dataset,,,328,17,,20170203,1486112027,EVENT,,2,49990000,,GGOEGEVB070499,Google Bluetooth Headphones,(not set),,,,,4
+1856749147915772585,Organic Search,79052,Canada,Montreal,,,1123,100,,20160802,1470160598,EVENT,,1,25000000,,GGOEGGCX056299,Gift Card - $25.00,(not set),,,,,4
+5429642908355908578,Referral,1253166,United States,Mountain View,48550000,1,1849,52,,20170613,1497383915,EVENT,,1,2390000,,GGOEGOBG023599,Colored Pencil Set,(not set),,,,,4
+0193658851061964474,Referral,267890,United States,not available in demo dataset,,,513,23,,20161124,1480004578,EVENT,,2,149000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,(not set),,,,,4
+6085855224776525636,Direct,282432,United States,Redwood City,239000000,1,510,25,,20161127,1480317730,EVENT,,1,149000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,(not set),,,,,4
+7868347671822888591,Organic Search,222533,United States,not available in demo dataset,,,1415,16,,20170206,1486413957,EVENT,,1,149000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,(not set),,,,,4
+6033730225494493473,Referral,458374,United States,Los Angeles,,,589,30,,20170620,1498004939,EVENT,,1,149000000,,GGOENEBQ084699,Nest® Learning Thermostat 3rd Gen-USA - White,(not set),,,,,4
+8942866004645538967,Direct,4151248,United States,not available in demo dataset,3775800000,7,6427,343,,20170320,1489999542,PAGE,,,39980000,,GGOEAAAB034814,Android BTTF Cosmos Graphic Tee,Apparel,,,,,5
+4636052301667930460,Organic Search,2532327,Venezuela,not available in demo dataset,,,4261,195,,20170320,1490065543,PAGE,,,49980000,,GGOEAAEB031614,Android Men's 3/4 Sleeve Raglan Henley Black,Apparel,,,,,5
+7359252773164627313,Referral,1277114,United States,Austin,77030000,1,1814,49,,20160816,1471355221,PAGE,,,11960000,,GGOEADHH055999,22 oz Android Bottle,(not set),,,,,5
+6482578323423752011,Organic Search,1266615,Canada,not available in demo dataset,729200000,1,1314,43,,20161115,1479237701,PAGE,,,39800000,,GGOEAFKQ020499,8 pc Android Sticker Sheet,Office,,,,,5
+7452591958167406113,Referral,780467,United States,New York,12960000,1,847,30,,20170130,1485829428,PAGE,,,1590000,,GGOEAFKQ020499,8 pc Android Sticker Sheet,Office,,,,,5
+7201699214751472527,Referral,684137,United States,not available in demo dataset,314390000,1,733,25,,20170104,1483534484,PAGE,,,2390000,,GGOEAFKQ020599,Android Sticker Sheet Ultra Removable,Office,,,,,5
+9662800125044386280,Organic Search,1668393,United States,not available in demo dataset,446790000,8,2048,150,,20161021,1477074404,PAGE,,,11970000,,GGOEAKDH019899,Windup Android,Lifestyle,,,,,5
+4362809979067745350,Referral,1946799,United States,San Francisco,462560000,1,1971,63,,20160908,1473390926,PAGE,,,39900000,,GGOEAKDH019899,Windup Android,(not set),,,,,5
+784499115644338284,Referral,1921153,United States,Austin,110930000,1,1948,12,,20161011,1476198961,PAGE,,,27180000,,GGOEGAAB010516,Google Men's 100% Cotton Short Sleeve Hero Tee Black,(not set),,,,,5
+5531986444834608429,Paid Search,9137570,United States,not available in demo dataset,,,9138,340,,20170124,1485273868,PAGE,,,67960000,,GGOEGAAB010516,Google Men's 100% Cotton Short Sleeve Hero Tee Black,Apparel,,,,,5
+1541545257640395358,Direct,1727736,United States,not available in demo dataset,46290000,1,1752,48,84,20170718,1500421129,PAGE,,,7600000,,GGOEGAAB033814,Google Men's Vintage Badge Tee Black,Apparel,,,,,5
+8942866004645538967,Direct,2086967,United States,not available in demo dataset,3775800000,7,6427,343,,20170320,1489999542,PAGE,,,37980000,,GGOEGAAJ032617,Google Men's Short Sleeve Badge Tee Charcoal,Apparel,,,,,5
+5501735992704421396,Direct,1759005,United States,Chicago,149940000,1,1893,46,,20170523,1495544101,PAGE,,,11190000,,GGOEGAAJ032714,Google Men's Skater Tee Grey,Apparel,,,,,5
+119870259714905967,Direct,2686190,United States,not available in demo dataset,616170000,1,2723,41,,20170517,1495073941,PAGE,,,41970000,,GGOEGAAJ032715,Google Men's Skater Tee Grey,Apparel,,,,,5
+2187177207543456316,Referral,470223,United States,Los Angeles,179750000,1,487,15,,20161218,1482089993,PAGE,,,17590000,,GGOEGAAJ059114,Google Men's Short Sleeve Performance Badge Tee Pewter,Apparel,,,,,5
+1956307607572137989,Organic Search,1106318,United States,not available in demo dataset,577750000,1,1155,74,,20161117,1479414246,PAGE,,,33980000,,GGOEGAAL010615,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,,,,,5
+1915695559996088119,Organic Search,477204,United States,not available in demo dataset,56970000,1,496,14,,20170504,1493954654,PAGE,,,50970000,,GGOEGAAL010616,Google Men's 100% Cotton Short Sleeve Hero Tee Navy,Apparel,,,,,5
+387146751722649019,Organic Search,3183123,United States,Boston,639220000,1,3245,65,82,20170717,1500317605,PAGE,,,220000000,,GGOEGADJ056815,Google Men's Watershed Full Zip Hoodie Grey,${productitem.product.origCatName},,,,,5
+1759779356678951325,Direct,1762949,United States,Chicago,1483630000,1,1827,23,,20161229,1483030095,PAGE,,,199950000,,GGOEGAEJ031313,Google Tri-blend Hoodie Grey,Apparel,,,,,5
+3681691345354167550,Referral,1429199,United States,Washington,,,1494,67,,20160810,1470833226,PAGE,,,31990000,,GGOEGAEJ031314,Google Tri-blend Hoodie Grey,(not set),,,,,5
+1152867987950849273,Referral,195748,United States,Irvine,97580000,1,399,22,,20170515,1494873477,PAGE,,,89580000,,GGOEGAFB035814,Google Men's  Zip Hoodie,Apparel,,,,,5
+8623232734241891055,Organic Search,2331339,United States,not available in demo dataset,200490000,1,2385,60,,20170613,1497407656,PAGE,,,27980000,,GGOEGALB036516,Google Women's Scoop Neck Tee Black,${productitem.product.origCatName},,,,,5
+4174685286294595114,Organic Search,2225925,Venezuela,not available in demo dataset,,,2926,105,,20160917,1474131418,PAGE,,,47980000,,GGOEGALJ036413,Google Women's Tee Grey,(not set),,,,,5
+1957458976293878100,Display,1061518,United States,not available in demo dataset,,,3576,62,,20170324,1490373732,PAGE,,,474750000,,GGOEGALJ073317,Google Women's Short Sleeve Hero Tee Heather,Apparel,,,,,5
+7457632959414021289,Referral,299418,United States,Seattle,75420000,1,325,13,,20170630,1498857134,PAGE,,,10630000,,GGOEGALP034315,Google Women's Vintage Hero Tee Lavender,Apparel,,,,,5
+081985686030532619,Direct,2100779,United States,not available in demo dataset,346620000,1,2363,143,,20161209,1481306198,PAGE,,,149980000,,GGOEGAPB058217,Google Women's Lightweight Microfleece Jacket,${productitem.product.origCatName},,,,,5
+5540414739780174811,Referral,475022,United States,San Francisco,198510000,1,528,38,,20161122,1479859980,PAGE,,,44790000,,GGOEGAQB036015,Google Women's Fleece Hoodie,Apparel,,,,,5
+3052828106337222847,Direct,1949868,United States,not available in demo dataset,14061310000,2,3880,109,62,20170713,1499951313,PAGE,,,771110000,,GGOEGAWN062749,Google Infant Zip Hood Pink,Apparel,,,,,5
+0250826361874221555,Referral,235107,United States,Ann Arbor,36190000,1,259,11,,20161005,1475695099,PAGE,,,27190000,,GGOEGAWQ062948,Google Baby Essentials Set,(not set),,,,,5
+0968815662109493799,Direct,558079,United States,San Francisco,918520000,1,575,36,,20170618,1497795826,PAGE,,,227880000,,GGOEGAYR068225,Google Youth Short Sleeve Tee Red,Apparel,,,,,5
+4754359022938156115,Referral,656354,United States,not available in demo dataset,54160000,1,710,48,,20161017,1476757437,PAGE,,,22380000,,GGOEGBCR024399,Google Lunch Bag,${productitem.product.origCatName},,,,,5
+7113011772090059658,Direct,5487883,United States,not available in demo dataset,1709830000,1,5515,70,,20170517,1495083738,PAGE,,,9980000,,GGOEGBJC019999,Collapsible Shopping Bag,Bags,,,,,5
+4904370510089389570,Direct,2495919,United States,not available in demo dataset,215950000,1,2554,85,,20160910,1473540459,PAGE,,,29980000,,GGOEGBPB021199,Google Slim Utility Travel Bag,(not set),,,,,5
+9264804092676520813,Organic Search,10364127,Venezuela,not available in demo dataset,6239580000,6,12466,323,,20160825,1472130683,PAGE,,,299970000,,GGOEGBRA037499,Waterproof Backpack,(not set),,,,,5
+788289060362109435,Referral,351568,United States,Mountain View,532890000,1,367,11,,20161128,1480376963,PAGE,,,527890000,,GGOEGBRB073899,Google Laptop Tech Backpack,Backpacks,,,,,5
+8143717296568071992,Referral,969042,United States,New York,121240000,1,998,48,89,20170731,1501546124,PAGE,,,6710000,,GGOEGCNB021099,Seat Pack Organizer,Lifestyle,,,,,5
+3681691345354167550,Referral,557568,United States,Washington,146800000,1,587,37,,20160830,1472569309,PAGE,,,8790000,,GGOEGDHC015299,23 oz Wide Mouth Sport Bottle,(not set),,,,,5
+8253837683525896717,Direct,1523149,United States,not available in demo dataset,916360000,1,2038,63,59,20170730,1501451230,PAGE,,,29900000,,GGOEGDHC018299,Google 22 oz Water Bottle,Drinkware,,,,,5
+6668081558564900297,Direct,2123887,United States,New York,958150000,1,2165,37,,20170328,1490727198,PAGE,,,23900000,,GGOEGDHC018299,Google 22 oz Water Bottle,Drinkware,,,,,5
+0092531753747954140,Direct,1830610,United States,not available in demo dataset,,,1846,54,,20170223,1487870374,PAGE,,,37980000,,GGOEGDHC074099,Google 17oz Stainless Steel Sport Bottle,Drinkware,,,,,5
+8188700471999583039,Direct,793928,United States,not available in demo dataset,997680000,1,834,24,49,20170731,1501550902,PAGE,,,199920000,,GGOEGDHQ015399,26 oz Double Wall Insulated Bottle,Drinkware,,,,,5
+213465488216513322,Direct,731153,United States,Los Angeles,111410000,1,753,24,,20170627,1498583314,PAGE,,,17940000,,GGOEGDHR018499,Google 22 oz Water Bottle,Drinkware,,,,,5
+1971879185768782326,Organic Search,3294278,United States,not available in demo dataset,90370000,1,3446,78,,20170331,1490974023,PAGE,,,7190000,,GGOEGDWC020199,Engraved Ceramic Google Mug,Drinkware,,,,,5
+1547996102864288970,Referral,997509,United States,New York,61150000,1,1035,46,,20161214,1481738160,PAGE,,,20780000,,GGOEGESQ016799,Plastic Sliding Flashlight,Electronics,,,,,5
+7039671379658981544,Organic Search,2711734,Venezuela,Maracaibo,,,3058,35,,20160818,1471568745,PAGE,,,169900000,,GGOEGETR014599,Google Power Bank,(not set),,,,,5
+560684445670763197,Paid Search,2002858,United States,not available in demo dataset,534820000,1,2089,121,,20160805,1470416987,PAGE,,,42000000,,GGOEGFAQ016699,Bottle Opener Clip,(not set),,,,,5
+8818233605702333697,Organic Search,572013,United States,Houston,29930000,1,592,26,,20161023,1477239062,PAGE,,,5970000,,GGOEGFKQ020399,Google Laptop and Cell Phone Stickers,Office,,,,,5
+507378123137078709,Organic Search,863495,United States,not available in demo dataset,58800000,1,880,38,,20170412,1492017734,PAGE,,,8970000,,GGOEGFKQ020799,Google Doodle Decal,Office,,,,,5
+2513134404212328094,Referral,1105013,United States,not available in demo dataset,286880000,2,2467,68,,20170209,1486660323,PAGE,,,6360000,,GGOEGFSR022099,Google Kick Ball,Lifestyle,,,,,5
+7823608009373233829,Referral,1331129,United States,Atlanta,235530000,1,1414,23,80,20170801,1501631449,PAGE,,,55500000,,GGOEGFYQ016599,Foam Can and Bottle Cooler,Drinkware,,,,,5
+1865140170192827585,Referral,773556,United States,Chicago,82620000,1,784,26,,20160809,1470761536,PAGE,,,21890000,,GGOEGFYQ016599,Koozie Can Kooler,(not set),,,,,5
+2683004450697064824,Organic Search,662004,United States,Mountain View,,,662,49,,20161214,1481750321,PAGE,,,14000000,,GGOEGHGC019799,Google Sunglasses,Lifestyle,,,,,5
+4835082938415020542,Direct,3815663,United States,not available in demo dataset,773340000,1,3858,112,,20161016,1476632207,PAGE,,,7000000,,GGOEGHGH019699,Google Sunglasses,Lifestyle,,,,,5
+0898438411847166329,Referral,2782462,United States,San Francisco,329750000,1,2830,74,,20170607,1496895230,PAGE,,,70000000,,GGOEGHGR019499,Google Sunglasses,Lifestyle,,,,,5
+1708063999877429517,Display,931992,United States,San Francisco,194710000,1,965,25,,20170413,1492116095,PAGE,,,42000000,,GGOEGHGT019599,Google Sunglasses,Lifestyle,,,,,5
+6259202518292934794,Referral,3818846,United States,New York,40310000,1,4345,43,92,20170801,1501596661,PAGE,,,10630000,,GGOEGHPB080410,Google 5-Panel Snapback Cap,Headgear,,,,,5
+9974232250427988367,Direct,2114315,United States,not available in demo dataset,1090680000,1,3195,60,,20170329,1490813632,PAGE,,,99500000,,GGOEGKAA019299,Switch Tone Color Crayon Pen,${productitem.product.origCatName},,,,,5
+6481826553223579425,Referral,726376,United States,New York,236990000,1,799,45,,20170314,1489515144,PAGE,,,47800000,,GGOEGOAQ020099,Four Color Retractable Pen,Office,,,,,5
+6986536761307654836,Direct,1003414,United States,not available in demo dataset,258240000,1,2423,53,,20170130,1485834064,PAGE,,,59800000,,GGOEGOAQ020099,Four Color Retractable Pen,Office,,,,,5
+7311242886083854158,Direct,745130,United States,Chicago,511230000,1,775,21,,20170522,1495480898,PAGE,,,55000000,,GGOEGOAR013099,Google Stylus Pen w/ LED Light,Office,,,,,5
+3021411536499327035,Organic Search,942394,United States,New York,359990000,1,999,50,,20160818,1471534030,PAGE,,,5980000,,GGOEGOBG023599,Colored Pencil Set,(not set),,,,,5
+1889446797400507159,Referral,126149,United States,not available in demo dataset,110320000,1,152,7,,20160925,1474847153,PAGE,,,2390000,,GGOEGOBG023599,Colored Pencil Set,(not set),,,,,5
+3098865090414414234,Organic Search,606224,United States,Ann Arbor,42960000,1,623,23,,20170609,1497029641,PAGE,,,8790000,,GGOEGOCB017499,Leatherette Journal,Office,,,,,5
+2540160459028036466,Organic Search,2917991,United States,not available in demo dataset,299060000,2,2929,36,,20160825,1472144386,PAGE,,,175800000,,GGOEGOCB017499,Leatherette Journal,(not set),,,,,5
+706268966537024256,Organic Search,859197,Canada,not available in demo dataset,35950000,1,889,36,,20161126,1480189680,PAGE,,,7980000,,GGOEGOCC017599,Recycled Paper Journal Set,Office,,,,,5
+3857043812510146001,Organic Search,256511,United States,not available in demo dataset,48900000,1,281,13,,20170511,1494514119,PAGE,,,19950000,,GGOEGOCR017899,Recycled Paper Journal Set,Office,,,,,5
+8851822767477687842,Referral,1810448,United States,Ann Arbor,311130000,1,1870,64,,20160907,1473266030,PAGE,,,47940000,,GGOEGOCT019199,Red Spiral Google Notebook,(not set),,,,,5
+9236502013498900724,Referral,710704,United States,New York,424860000,1,753,27,,20170402,1491156442,PAGE,,,4790000,,GGOEGOLC013299,Spiral Notebook and Pen Set,Office,,,,,5
+408893888652154187,Organic Search,737091,Argentina,not available in demo dataset,,,1216,58,,20161107,1478572404,PAGE,,,5970000,,GGOEGOXQ016399,Badge Holder,Office,,,,,5
+1814166460229302850,Direct,2362854,United States,not available in demo dataset,1194880000,1,2387,61,,20170112,1484275199,PAGE,,,19900000,,GGOEGOXQ016399,Badge Holder,Office,,,,,5
+7638336411447332495,Referral,1469632,United States,New York,1750210000,2,2536,112,,20170126,1485447665,PAGE,,,2400000,,GGOEGPJC019099,7&quot; Dog Frisbee,Lifestyle,,,,,5
+8351709416892575846,Referral,562139,United States,not available in demo dataset,360000000,1,643,20,,20170125,1485399767,PAGE,,,238000000,,GGOENEBB078899,Nest® Cam Indoor Security Camera - USA,Nest-USA,,,,,5
+2759369684208060187,Referral,271697,United States,Mountain View,993000000,1,289,21,,20170423,1492956616,PAGE,,,357000000,,GGOENEBB078899,Nest® Cam Indoor Security Camera - USA,Nest-USA,,,,,5
+4292710039655501060,Direct,182176,United States,San Francisco,239000000,1,250,14,,20170218,1487478919,PAGE,,,238000000,,GGOENEBB078899,Nest® Cam Indoor Security Camera - USA,Nest-USA,,,,,5
+4044030324778546873,Direct,339926,Canada,Kitchener,350000000,1,365,19,,20161130,1480527601,PAGE,,,149000000,,GGOENEBB081499,Nest® Cam Indoor Security Camera - CA,Nest-Canada,,,,,5
+0821375357056155516,Direct,484455,United States,Mountain View,424000000,1,518,20,,20161201,1480582106,PAGE,,,298000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,,,5
+5276789640820388459,Direct,552418,United States,Palo Alto,154000000,1,574,20,,20170418,1492562695,PAGE,,,149000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,,,5
+2138840509603103665,Referral,736634,United States,not available in demo dataset,273000000,1,796,18,93,20170719,1500487500,PAGE,,,149000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,,,5
+3587857866706396127,Referral,338842,United States,not available in demo dataset,180980000,1,350,14,,20170412,1492023549,PAGE,,,149000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,,,5
+7102189477114352578,Referral,279504,United States,not available in demo dataset,341560000,1,327,17,,20161130,1480541445,PAGE,,,149000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,,,5
+219932398678871758,Referral,285725,United States,Chicago,152000000,1,309,15,99,20170718,1500415487,PAGE,,,149000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,,,5
+8342204807944251410,Referral,247788,United States,Sunnyvale,158000000,1,267,12,,20161206,1481051835,PAGE,,,149000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,,,5
+5027868669858503385,Direct,240195,United States,Birmingham,154000000,1,268,22,,20161205,1480966786,PAGE,,,149000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,,,5
+6159380635964675839,Direct,454809,United States,Palo Alto,452000000,1,590,22,,20161104,1478295019,PAGE,,,447000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,,,5
+0938681082618118944,Referral,951908,United States,not available in demo dataset,302000000,1,971,12,,20161114,1479147908,PAGE,,,298000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,,,5
+0109214254504354042,Direct,219838,United States,Palo Alto,746000000,1,371,24,,20161201,1480625555,PAGE,,,745000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,,,5
+5935571659977995081,Referral,667202,United States,not available in demo dataset,153000000,1,862,23,,20170201,1485961577,PAGE,,,149000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,,,5
+7911488847227817146,Direct,586761,United States,Sunnyvale,299000000,1,808,20,,20161207,1481156212,PAGE,,,298000000,,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,,,5
+1217820352606638502,Referral,456711,United States,not available in demo dataset,358000000,1,479,16,,20170619,1497925616,PAGE,,,357000000,,GGOENEBQ078999,Nest® Cam Outdoor Security Camera - USA,Nest-USA,,,,,5
+1541096851948336118,Referral,257939,United States,New York,366000000,1,274,12,,20170421,1492817743,PAGE,,,357000000,,GGOENEBQ078999,Nest® Cam Outdoor Security Camera - USA,Nest-USA,,,,,5
+9313247296579803139,Referral,290820,United States,Mountain View,241000000,1,326,15,,20170629,1498802196,PAGE,,,238000000,,GGOENEBQ078999,Nest® Cam Outdoor Security Camera - USA,Nest-USA,,,,,5
+8065850951628786528,Referral,816085,United States,Mountain View,358000000,1,827,16,,20170617,1497747773,PAGE,,,357000000,,GGOENEBQ078999,Nest® Cam Outdoor Security Camera - USA,Nest-USA,,,,,5
+2359426274688479595,Referral,1951899,United States,not available in demo dataset,161000000,1,2001,57,97,20170707,1499446468,PAGE,,,158000000,,GGOENEBQ079099,Nest® Protect Smoke + CO White Battery Alarm-USA,Nest-USA,,,,,5
+353672330474112597,Direct,641213,United States,not available in demo dataset,482000000,1,663,25,,20170104,1483584448,PAGE,,,237000000,,GGOENEBQ079099,Nest® Protect Smoke + CO White Battery Alarm-USA,Nest-USA,,,,,5
+4636052301667930460,Organic Search,4132560,Venezuela,not available in demo dataset,,,4261,195,,20170320,1490065543,PAGE,,,49980000,,GGOEYAEB031416,YouTube Men's 3/4 Sleeve Henley,Apparel,,,,,5
+3924372865099736100,Organic Search,5948960,Venezuela,not available in demo dataset,9227740000,6,10046,431,,20160825,1472132217,PAGE,,,62970000,,GGOEYAEB035614,YouTube Men's Vintage Tank,(not set),,,,,5
+4144610970742567505,Direct,1653871,United States,New York,412250000,1,1679,62,,20161108,1478637097,PAGE,,,151900000,,GGOEYAEJ029015,YouTube Women's Short Sleeve Hero Tee Charcoal,Apparel,,,,,5
+3468690642506593738,Referral,377322,United States,Chicago,539480000,1,423,9,,20161117,1479401508,PAGE,,,179160000,,GGOEYAFB073115,YouTube Men's Fleece Hoodie Black,Apparel,,,,,5
+5958728222060412682,Referral,1396506,United States,New York,119710000,2,1726,69,,20161218,1482073314,PAGE,,,19190000,,GGOEYAWJ061449,YouTube Onesie Heather,Apparel,,,,,5
+831129647030620567,Referral,2346819,United States,San Bruno,,,5902,38,,20160812,1471034842,PAGE,,,15900000,,GGOEYFKQ020699,YouTube Custom Decals,(not set),,,,,5
+1440024345080708014,Organic Search,491245,United States,San Francisco,113320000,1,515,32,,20170118,1484752096,PAGE,,,31980000,,GGOEYOCR077399,YouTube RFID Journal,Office,,,,,5
+9817395183603701442,Referral,673796,United States,New York,4087500000,1,741,48,,20160825,1472145168,PAGE,,,838500000,,GGOEYOLR018699,YouTube Leatherette Notebook Combo,(not set),,,,,5
+2535119751950226175,Referral,1163903,United States,not available in demo dataset,48770000,1,1164,28,,20170529,1496094188,PAGE,,1,11190000,13856666,GGOEAAAJ032914,Android Men's Skater Badge Tee Charcoal,Apparel,,,48770000,ORD201705291837,6
+1472195771353287168,Referral,849179,United States,Sunnyvale,31070000,1,849,20,69,20170724,1500919354,PAGE,,1,12000000,13666666,GGOEAAEJ030915,Android Women's Long Sleeve Blended Cardigan Grey,Apparel,,,31070000,ORD201707242460,6
+0454544102595275373,Referral,951528,United States,not available in demo dataset,224330000,1,952,18,93,20170721,1500682499,PAGE,,10,10630000,108550000,GGOEADHH073999,Android 17oz Stainless Steel Sport Bottle,${productitem.product.origCatName},,,224330000,ORD201707212299,6
+8270496199036468990,Direct,681090,United States,not available in demo dataset,25980000,1,681,21,,20161114,1479177270,PAGE,,1,10390000,11390000,GGOEADWQ015699,Android Rise 14 oz Mug,Drinkware,,,25980000,ORD201611142552,6
+3651236178297413161,Organic Search,907380,United States,not available in demo dataset,38190000,1,1723,35,,20160808,1470667467,PAGE,,3,1590000,6770000,GGOEAFKQ020499,8 pc Android Sticker Sheet,(not set),,,38190000,ORD201608081879,6
+4361466731290261713,Referral,1495763,United States,not available in demo dataset,102410000,1,1496,24,77,20170714,1500068044,PAGE,,1,7600000,8155555,GGOEGAAB033814,Google Men's Vintage Badge Tee Black,Apparel,,,102410000,ORD201707142213,6
+5441957633456467994,Referral,2236948,United States,Mountain View,167970000,1,2237,53,71,20170712,1499918217,PAGE,,1,7600000,8742857,GGOEGAAB033815,Google Men's Vintage Badge Tee Black,Apparel,,,167970000,ORD201707122511,6
+133743287345341153,Paid Search,667920,United States,not available in demo dataset,214870000,1,668,25,42,20170719,1500525782,PAGE,,1,9490000,9632857,GGOEGAAB033815,Google Men's Vintage Badge Tee Black,Apparel,,,214870000,ORD201707192458,6
+0905046392486388970,Referral,735968,United States,Seattle,300240000,1,736,32,79,20170714,1500050406,PAGE,,3,7600000,23038095,GGOEGAAB033815,Google Men's Vintage Badge Tee Black,Apparel,,,300240000,ORD201707142289,6
+7347925447338164715,Referral,316178,United States,Ann Arbor,56710000,1,316,13,,20170609,1497056131,PAGE,,1,10630000,10830000,GGOEGAAB033817,Google Men's Vintage Badge Tee Black,Apparel,,,56710000,ORD201706091848,6
+4386547044736658243,Referral,1468880,United States,Denver,200800000,1,1477,27,92,20170728,1501277066,PAGE,,2,4560000,9620000,GGOEGALB034114,Google Women's Vintage Hero Tee Black,Apparel,,,200800000,ORD201707282374,6
+7010905385006464130,Referral,637804,United States,Sunnyvale,43170000,1,638,20,,20161019,1476900794,PAGE,,1,19190000,20523333,GGOEGALJ036413,Google Women's Tee Grey,Apparel,,,43170000,ORD201610191967,6
+0395050647250429598,Referral,632793,United States,not available in demo dataset,53660000,1,633,12,,20170515,1494883109,PAGE,,1,15390000,17390000,GGOEGALJ072913,Google Women's Performance Hero Tee Gunmetal,Apparel,,,53660000,ORD201705152233,6
+3925757259512692502,Referral,555557,United States,New York,378190000,1,971,31,,20161201,1480614095,PAGE,,1,19190000,19856666,GGOEGALP036313,Google Women's Long Sleeve Tee Lavender,Apparel,,,378190000,ORD201612012960,6
+4921413806940784676,Organic Search,288111,United States,Santa Clara,608590000,4,1232,64,,20170508,1494285229,PAGE,,1,67190000,74190000,GGOEGAPB057813,Women's Performance Full Zip Jacket Black,Apparel,,,74190000,ORD201705082186,6
+5881420815591584294,Referral,3940874,United States,San Francisco,538480000,1,3941,26,,20161205,1480977646,PAGE,,2,44790000,89830000,GGOEGAQB036014,Google Women's Fleece Hoodie,Apparel,,,538480000,ORD201612053055,6
+3924372865099736100,Organic Search,7694244,Venezuela,not available in demo dataset,9227740000,6,10046,431,,20160825,1472132217,PAGE,,6,64990000,390797142,GGOEGATB060213,Google Women's 1/4 Zip Performance Pullover Black,(not set),,,2396790000,ORD201608251640,6
+2986044800448176384,Referral,1312741,United States,not available in demo dataset,76570000,1,1313,31,,20170513,1494721338,PAGE,,1,36390000,39390000,GGOEGATC060314,Google Women's 1/4 Zip Performance Pullover Two-Tone Blue,Apparel,,,76570000,ORD201705131327,6
+3052828106337222847,Direct,1992708,United States,not available in demo dataset,14061310000,2,3880,109,62,20170713,1499951313,PAGE,,7,26590000,186358571,GGOEGAWC062850,Google Infant Zip Hood Royal Blue,Apparel,,,11512810000,ORD201707132695,6
+9104422787977218572,Organic Search,501453,United States,Los Angeles,27190000,1,535,23,,20170515,1494907903,PAGE,,1,19190000,27190000,GGOEGAWH061349,Google Onesie Green,Apparel,,,27190000,ORD201705152461,6
+5147300688603884511,Referral,1003930,United States,Chicago,84760000,1,1004,27,,20161019,1476888589,PAGE,,1,30390000,32390000,GGOEGAXC065629,Google Toddler Hoodie Royal Blue,Apparel,,,84760000,ORD201610192027,6
+5185645869012304658,Referral,1051482,United States,not available in demo dataset,479750000,1,1051,22,,20170627,1498596075,PAGE,,50,2000000,100250000,GGOEGCBQ016499,SPF-15 Slim & Slender Lip Balm,Housewares,,,479750000,ORD201706272694,6
+5921438305564932958,Referral,1955600,United States,San Francisco,67360000,1,1956,16,,20161213,1481638377,PAGE,,14,2390000,34460000,GGOEGDHC018299,Google 22 oz Water Bottle,Drinkware,,,67360000,ORD201612133018,6
+0085057281729508802,Organic Search,875643,United States,Mountain View,39370000,1,876,45,,20170102,1483421832,PAGE,,1,11190000,12190000,GGOEGDHG082499,Google 25 oz Clear Stainless Steel Bottle,Google,,,39370000,ORD201701021497,6
+3929112917677381467,Referral,1302217,United States,Ann Arbor,272880000,2,1302,26,96,20170731,1501518841,PAGE,,7,11190000,82830000,GGOEGDHR082199,Google 25 oz Red Stainless Steel Bottle,Drinkware,,,162930000,ORD201707312566,6
+8885051388942907862,Referral,1417719,United States,New York,205350000,1,1994,107,,20160812,1471042960,PAGE,,1,8790000,9040000,GGOEGEFR024199,Metal Earbuds with Small Zipper Case,(not set),,,205350000,ORD201608121807,6
+2896773240947804856,Referral,1201927,United States,New York,268230000,1,1202,41,,20170303,1488541406,PAGE,,4,18390000,73960000,GGOEGEHQ072499,Google 2200mAh Micro Charger,Electronics,,,268230000,ORD201703031956,6
+498798806130428182,Referral,3504961,United States,Mountain View,82480000,1,3505,86,70,20170718,1500433542,PAGE,,1,3120000,3342222,GGOEGESQ016799,Plastic Sliding Flashlight,Electronics,,,82480000,ORD201707182824,6
+352600760122668518,Organic Search,2613854,United States,Cupertino,74940000,1,2660,81,,20161126,1480205115,PAGE,,1,2800000,3675000,GGOEGFKQ020799,Google Doodle Decal,Office,,,74940000,ORD201611261884,6
+4143932736586919766,Organic Search,909803,United States,Sunnyvale,26950000,1,910,23,78,20170709,1499645584,PAGE,,1,1590000,2190000,GGOEGKAA019299,Switch Tone Color Crayon Pen,Office,,,26950000,ORD201707091803,6
+2882465245432965325,Direct,1184436,United States,not available in demo dataset,45560000,1,1184,25,,20170418,1492562046,PAGE,,1,4190000,5690000,GGOEGOAB012999,Ballpoint Pen & Matching Tube Case,Office,,,45560000,ORD201704182208,6
+7371041490532738587,Referral,490258,United States,Mountain View,70520000,1,490,23,,20170626,1498522624,PAGE,,1,2390000,2890000,GGOEGOBG023599,Colored Pencil Set,Office,,,70520000,ORD201706262232,6
+0611561045307562255,Organic Search,3010857,United States,not available in demo dataset,137450000,1,3011,104,,20170309,1489126113,PAGE,,1,32990000,33990000,GGOEGOCD078199,Google Leather Journal-Brown,Office,,,137450000,ORD201703092072,6
+7984761365552483293,Referral,465520,United States,New York,351790000,1,466,18,,20170609,1497018508,PAGE,,1,25190000,28690000,GGOEGOCD078399,Google Leather Perforated Journal,Notebooks & Journals,,,351790000,ORD201706091965,6
+8685842435623374798,Referral,131737,United States,not available in demo dataset,14000000,1,132,11,,20161018,1476801516,PAGE,,10,1200000,14000000,GGOEGODR017799,Recycled Mouse Pad,Electronics,,,14000000,ORD201610181824,6
+5383990929286314034,Referral,768779,United States,Ann Arbor,39150000,1,769,56,,20161011,1476193500,PAGE,,1,4790000,5790000,GGOEGOLC014299,Google Metallic Notebook Set,(not set),,,39150000,ORD201610112134,6
+029534875378731789,Direct,2247560,United States,not available in demo dataset,1286000000,1,2248,71,,20160807,1470583131,PAGE,,60,4790000,287525000,GGOEGOLC014299,Blue Metallic Textured Spiral Notebook Set,(not set),,,1286000000,ORD201608071000,6
+016600374334482677,Referral,1269493,United States,New York,32160000,1,1269,63,,20161116,1479337500,PAGE,,1,1200000,1366666,GGOEGPJR018999,7&quot; Dog Frisbee,Lifestyle,,,32160000,ORD201611162501,6
+6629742153632607727,Organic Search,551723,United States,San Francisco,462000000,1,552,13,,20161231,1483231616,PAGE,,2,149000000,301000000,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,462000000,ORD20161231970,6
+964051733385392181,Organic Search,308438,United States,Sunnyvale,574000000,2,1536,29,,20170323,1490288115,PAGE,,2,149000000,306000000,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,306000000,ORD201703232593,6
+9523911587383607581,Direct,3286693,United States,Sunnyvale,276000000,1,3287,23,,20170106,1483741495,PAGE,,1,149000000,153000000,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,276000000,ORD201701062076,6
+4273254514147743879,Referral,706667,United States,Mountain View,303000000,1,707,20,87,20170801,1501648522,PAGE,,2,149000000,303000000,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,303000000,ORD201708012456,6
+4327512894357298784,Direct,771863,United States,San Francisco,873000000,2,779,33,,20161030,1477839159,PAGE,,2,149000000,307000000,GGOENEBJ079499,Nest® Learning Thermostat 3rd Gen-USA - Stainless Steel,Nest-USA,,,307000000,ORD201610301255,6
+2262339733727973704,Referral,460658,United States,not available in demo dataset,206980000,1,461,25,,20161211,1481504779,PAGE,,1,44790000,46790000,GGOEYAFB073117,YouTube Men's Fleece Hoodie Black,Apparel,,,206980000,ORD201612112128,6
